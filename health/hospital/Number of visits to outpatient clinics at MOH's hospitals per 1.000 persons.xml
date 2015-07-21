@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NewDataSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>268.775045866287</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>391.559856481477</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>382.795192225309</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>540.698612665608</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>734.283170213291</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>330.489332937646</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>440.429786024158</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>613.994665801296</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>420.807116762722</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>323.304527837921</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>184.576242966431</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>172.989665924188</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>486.387863577442</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>557.588194938247</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>349.790691528324</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>376.958344596564</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>533.574476884575</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>309.077971794106</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>455.350292973144</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>121.000598630588</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>388.601725383595</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>640.435296415978</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>898.942389396827</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>1099.68188562679</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>548.24554292786</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>1742.05848591269</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>458.940702817624</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>952.60332427131</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>516.029768756482</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>577.311176305041</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>675.460813720487</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>1543.18357462442</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>597.494606256742</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>716.578474374823</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>429.235245784593</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>832.772755938617</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>715.387944358578</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>2947.61886576284</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>267.377216687506</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>293.481448326954</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>281.203907104356</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>405.531723816752</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>444.834157253721</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>553.823540102467</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>760.770560200303</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>345.157083498082</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>430.111386825104</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>593.631385064945</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>443.363418756284</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>328.289380810573</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>194.027462496705</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>189.944729834311</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>519.766661645693</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>653.097313647237</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>358.526201671865</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>427.66650454992</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>515.806789766942</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>305.438174536931</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>509.83913356513</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>191.821159089925</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>395.866958093471</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>603.685434843519</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>915.145012695288</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>1076.40774760383</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>505.467872554235</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>1793.28759036494</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>449.117659492186</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>942.27604540276</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>801.601761178167</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>605.941814048663</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>642.788295821578</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>1672.79279954821</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>600.497921646343</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>666.912804866504</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>469.172232458161</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>852.708759320073</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>715.246267332505</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>2998.54055614957</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>246.81801598392</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>271.959532718018</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>284.47805320368</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>410.10067507189</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>331.234982883328</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>484.373923792745</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>202.076819806559</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>359.103204628373</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>522.328958295876</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>602.097439345252</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>419.04075920415</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>502.163567472524</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>418.046848656245</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>484.398181596544</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>399.744456684075</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>578.562672282821</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>494.078932206412</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>544.154296872152</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>734.985985836265</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>840.026485417066</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>839.156462340571</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>942.611314570358</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>686.203674867642</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>821.338682432433</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>417.172543301282</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>542.378574809522</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>792.849970918182</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>981.472349199395</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>458.893645732094</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>538.844207786248</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>482.598779007114</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>554.756309783123</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>556.025705705368</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>651.202002756407</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>548.79279087937</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>620.299401197605</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>597.014460587256</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>665.387931322555</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>1020.44910674965</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>1158.27461383293</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>237.520137339298</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>260.657896326363</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>309.143406383749</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>446.652291443872</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>305.043192378376</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>448.102941411505</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>204.475557948902</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>360.766380881672</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>518.939738898918</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>594.934914519677</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>372.739654899954</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>445.201286043624</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>431.305177272413</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>491.941303824874</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>364.987418360711</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>520.985184154615</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>629.896340654551</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>742.112642610712</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>806.784140969163</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>925.877494268665</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>1117.74781295628</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>1231.10110113843</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>794.374596097231</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>954.434150294588</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>455.057642779565</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>591.814572851585</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>847.427084412818</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>1042.46675519741</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>478.931380035636</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>560.947775469824</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>518.165830087261</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>594.020187566737</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>544.73437580713</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>633.712033807048</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>612.818697444092</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>682.896646323281</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>648.462049125913</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>714.301578267931</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>1049.41877403566</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>1186.03070250921</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>196.917305376912</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>214.872543158053</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>321.43763807775</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>424.23030374729</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>363.822273744459</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>528.737231045689</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>217.021951905612</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>365.142856827021</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>512.459878865296</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>578.253611360572</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>395.489925377575</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>447.889187388808</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>385.577368250201</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>432.182149498417</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>397.842011822642</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>503.60696502486</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>639.688652294837</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>677.872899371468</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>763.114145237169</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>821.219675516938</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>1099.92639299626</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>1176.12648922874</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>740.316482495288</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>799.846915882917</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>651.766740680689</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>815.599970208633</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>898.24731629663</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>1051.48289607333</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>484.900170044294</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>534.193363605444</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>543.656980864635</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>611.655375469862</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>526.252859222292</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>600.548093829029</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>652.115681560333</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>697.880976483414</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>461.686939945081</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>496.845988020637</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>942.866814422775</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>1033.76013317067</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>199.422173249575</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>212.583517056834</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>339.117809223225</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>452.577294486261</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>575.725599298945</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>563.089932243118</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>210.864730316694</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>354.41984764216</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>495.029305628979</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>561.368110674613</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>383.973924607841</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>435.670360189305</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>381.642695853724</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>428.327894713407</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>401.734480845725</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>511.933702267799</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>612.818854452321</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>649.076215386855</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>738.503476325462</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>792.098155849751</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>908.991266952718</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>988.733600624522</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>729.677028074835</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>774.408918843225</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>671.608390606846</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>827.228360225737</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>905.552460003619</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>1051.80808977018</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>501.967570226446</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>551.455043663506</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>583.740487299823</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>652.720473672353</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>562.277328156264</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>647.365211555254</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>629.307762675366</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>701.611281989426</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>487.654199732851</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>525.910037076118</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>970.124335706407</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>1069.80624638519</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfPatientsVisitsPer1000People>206.106752391721</NumberOfPatientsVisitsPer1000People>
+		<NumberOfPatientsVisitsPer1000PeopleSaudi>219.745537035211</NumberOfPatientsVisitsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+</NewDataSet>

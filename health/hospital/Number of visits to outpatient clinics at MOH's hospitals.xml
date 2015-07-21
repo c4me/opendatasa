@@ -1,0 +1,885 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NewDataSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>2020371</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>1823042</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>718688</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>623193</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>758268</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>681547</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>655397</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>605454</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>452885</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>442289</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>183362</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>174043</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>1125891</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>1024880</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>394699</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>355598</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>115714</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>108593</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>181112</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>170799</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>217085</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>199974</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>864369</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>787822</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>982150</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>919671</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>300485</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>276817</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>725915</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>691303</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>728306</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>672916</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>304347</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>270704</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>221551</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>205998</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>405183</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>385917</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>79549</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>76061</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1434</YEAR>
+		<Region>جميع المناطق</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>11435327</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>10496621</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>2055591</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>1847798</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>715652</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>624698</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>773623</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>696605</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>618017</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>572881</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>450075</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>439524</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>195566</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>187023</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>1272453</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>1174813</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>431251</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>394823</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>112863</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>105024</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>274547</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>265914</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>201401</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>185294</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>821942</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>754691</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>991758</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>926511</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>286851</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>267972</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>746076</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>710102</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>759140</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>713866</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>273632</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>246565</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>217564</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>206428</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>402597</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>384206</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>71711</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>68979</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1433</YEAR>
+		<Region>جميع المناطق</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>11672310</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>10773717</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>2018553</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>1827457</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>641312</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>534464</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>780452</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>708776</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>610075</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>568672</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>464254</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>453523</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>169847</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>162922</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>1109709</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>1017539</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>407333</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>373150</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>113021</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>105299</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>280217</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>262275</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>209323</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>194493</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>775311</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>710440</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>1005995</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>945363</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>285659</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>272417</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>791767</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>749782</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>791328</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>746551</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>289396</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>258975</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>210887</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>199120</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>437939</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>419168</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>67379</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>64731</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1432</YEAR>
+		<Region>جميع المناطق</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>11459757</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>10575117</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>2095110</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>1919151</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>563017</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>476635</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>751828</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>686603</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>581226</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>541411</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>396264</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>387582</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>168206</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>159510</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>968193</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>883743</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>498585</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>490650</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>119041</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>111871</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>358265</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>330153</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>232322</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>217883</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>809062</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>747173</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>1030351</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>967921</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>285991</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>273296</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>815835</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>773820</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>738175</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>700312</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>309873</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>274814</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>219780</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>205836</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>432243</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>413493</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>53645</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>51393</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1431</YEAR>
+		<Region>جميع المناطق</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>11427012</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>10613250</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>2008145</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>1807328</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>590652</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>513149</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>727519</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>660638</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>568071</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>529279</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>398763</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>387954</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>144910</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>138982</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>927283</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>839260</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>508303</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>470658</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>107870</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>101791</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>337717</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>318074</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>197569</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>181826</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>1120709</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>1051279</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>1020179</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>958597</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>281454</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>268578</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>828468</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>786924</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>718733</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>684157</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>318432</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>286790</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>154516</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>143587</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>381598</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>362672</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>52666</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>50526</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1430</YEAR>
+		<Region>جميع المناطق</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>11393557</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>10542049</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>2063520</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>1877349</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>917147</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>536190</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>693637</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>629153</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>538431</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>504140</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>379094</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>368964</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>140451</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>134674</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>918267</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>834133</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>473758</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>436999</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>101864</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>95611</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>281970</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>260909</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>190094</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>171434</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>1125435</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>1040736</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>1005990</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>937709</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>285735</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>271285</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>944934</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>895259</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>746652</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>717638</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>310946</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>279202</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>99302</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>91207</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>387002</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>369939</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>53407</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>51244</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+		<YEAR>1429</YEAR>
+		<Region>جميع المناطق</Region>
+		<CaseType>زيارات المراجعين للعيادات</CaseType>
+		<NumberOfOutpatientVisits>11657636</NumberOfOutpatientVisits>
+		<NumberOfOutpatientVisitsSaudi>10503775</NumberOfOutpatientVisitsSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type2>
+</NewDataSet>

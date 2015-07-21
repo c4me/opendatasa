@@ -1,0 +1,403 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <YB_POP_BEDS>
+    <YEAR>1432</YEAR>
+    <PRIV_HOSP>31</PRIV_HOSP>
+    <Region_x0020_Name>منطقة الرياض الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1432</YEAR>
+    <PRIV_HOSP>12</PRIV_HOSP>
+    <Region_x0020_Name>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1432</YEAR>
+    <PRIV_HOSP>21</PRIV_HOSP>
+    <Region_x0020_Name>الشئون الصحية بالشرقية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1432</YEAR>
+    <PRIV_HOSP>5</PRIV_HOSP>
+    <Region_x0020_Name>منطقة القصيم - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1432</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>منطفة جيزان - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1432</YEAR>
+    <PRIV_HOSP>9</PRIV_HOSP>
+    <Region_x0020_Name>منطقة عسير - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1432</YEAR>
+    <PRIV_HOSP>29</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشؤون الصحية بجـدة</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1432</YEAR>
+    <PRIV_HOSP>3</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالطائف</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1432</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>منطقة حائل - المديرية العامة للشـؤون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1432</YEAR>
+    <PRIV_HOSP>8</PRIV_HOSP>
+    <Region_x0020_Name>منطقة االعاصمة المقدسة</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1432</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>منطقة تبوك - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1432</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>منطقة الباحه - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1432</YEAR>
+    <PRIV_HOSP>5</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالإحساء</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1432</YEAR>
+    <PRIV_HOSP>0</PRIV_HOSP>
+    <Region_x0020_Name>الشؤون الصحية للحدود الشمالية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1432</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>منطقة نجران - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1432</YEAR>
+    <PRIV_HOSP>0</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشئون الصحية ببيشة</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1432</YEAR>
+    <PRIV_HOSP>0</PRIV_HOSP>
+    <Region_x0020_Name>منطقة الجوف - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1432</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشؤون الصحية بحفر الباطن</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1432</YEAR>
+    <PRIV_HOSP>0</PRIV_HOSP>
+    <Region_x0020_Name>مديريه الشؤون الصحيه بمنطقه القريات</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1432</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشـؤون الصحية بمنطقة القنفذه</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1429</YEAR>
+    <PRIV_HOSP>26</PRIV_HOSP>
+    <Region_x0020_Name>منطقة الرياض الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1429</YEAR>
+    <PRIV_HOSP>11</PRIV_HOSP>
+    <Region_x0020_Name>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1429</YEAR>
+    <PRIV_HOSP>18</PRIV_HOSP>
+    <Region_x0020_Name>الشئون الصحية بالشرقية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1429</YEAR>
+    <PRIV_HOSP>3</PRIV_HOSP>
+    <Region_x0020_Name>منطقة القصيم - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1429</YEAR>
+    <PRIV_HOSP>2</PRIV_HOSP>
+    <Region_x0020_Name>منطفة جيزان - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1429</YEAR>
+    <PRIV_HOSP>10</PRIV_HOSP>
+    <Region_x0020_Name>منطقة عسير - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1429</YEAR>
+    <PRIV_HOSP>31</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشؤون الصحية بجـدة</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1429</YEAR>
+    <PRIV_HOSP>4</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالطائف</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1429</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>منطقة حائل - المديرية العامة للشـؤون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1429</YEAR>
+    <PRIV_HOSP>8</PRIV_HOSP>
+    <Region_x0020_Name>منطقة االعاصمة المقدسة</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1429</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>منطقة تبوك - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1429</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>منطقة الباحه - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1429</YEAR>
+    <PRIV_HOSP>4</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالإحساء</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1429</YEAR>
+    <PRIV_HOSP>0</PRIV_HOSP>
+    <Region_x0020_Name>الشؤون الصحية للحدود الشمالية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1429</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>منطقة نجران - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1429</YEAR>
+    <PRIV_HOSP>0</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشئون الصحية ببيشة</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1429</YEAR>
+    <PRIV_HOSP>0</PRIV_HOSP>
+    <Region_x0020_Name>منطقة الجوف - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1429</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشؤون الصحية بحفر الباطن</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1429</YEAR>
+    <PRIV_HOSP>0</PRIV_HOSP>
+    <Region_x0020_Name>مديريه الشؤون الصحيه بمنطقه القريات</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1429</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشـؤون الصحية بمنطقة القنفذه</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1430</YEAR>
+    <PRIV_HOSP>27</PRIV_HOSP>
+    <Region_x0020_Name>منطقة الرياض الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1430</YEAR>
+    <PRIV_HOSP>11</PRIV_HOSP>
+    <Region_x0020_Name>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1430</YEAR>
+    <PRIV_HOSP>18</PRIV_HOSP>
+    <Region_x0020_Name>الشئون الصحية بالشرقية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1430</YEAR>
+    <PRIV_HOSP>5</PRIV_HOSP>
+    <Region_x0020_Name>منطقة القصيم - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1430</YEAR>
+    <PRIV_HOSP>2</PRIV_HOSP>
+    <Region_x0020_Name>منطفة جيزان - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1430</YEAR>
+    <PRIV_HOSP>9</PRIV_HOSP>
+    <Region_x0020_Name>منطقة عسير - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1430</YEAR>
+    <PRIV_HOSP>31</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشؤون الصحية بجـدة</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1430</YEAR>
+    <PRIV_HOSP>4</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالطائف</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1430</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>منطقة حائل - المديرية العامة للشـؤون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1430</YEAR>
+    <PRIV_HOSP>8</PRIV_HOSP>
+    <Region_x0020_Name>منطقة االعاصمة المقدسة</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1430</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>منطقة تبوك - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1430</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>منطقة الباحه - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1430</YEAR>
+    <PRIV_HOSP>4</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالإحساء</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1430</YEAR>
+    <PRIV_HOSP>0</PRIV_HOSP>
+    <Region_x0020_Name>الشؤون الصحية للحدود الشمالية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1430</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>منطقة نجران - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1430</YEAR>
+    <PRIV_HOSP>0</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشئون الصحية ببيشة</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1430</YEAR>
+    <PRIV_HOSP>0</PRIV_HOSP>
+    <Region_x0020_Name>منطقة الجوف - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1430</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشؤون الصحية بحفر الباطن</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1430</YEAR>
+    <PRIV_HOSP>0</PRIV_HOSP>
+    <Region_x0020_Name>مديريه الشؤون الصحيه بمنطقه القريات</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1430</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشـؤون الصحية بمنطقة القنفذه</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1431</YEAR>
+    <PRIV_HOSP>30</PRIV_HOSP>
+    <Region_x0020_Name>منطقة الرياض الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1431</YEAR>
+    <PRIV_HOSP>12</PRIV_HOSP>
+    <Region_x0020_Name>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1431</YEAR>
+    <PRIV_HOSP>21</PRIV_HOSP>
+    <Region_x0020_Name>الشئون الصحية بالشرقية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1431</YEAR>
+    <PRIV_HOSP>5</PRIV_HOSP>
+    <Region_x0020_Name>منطقة القصيم - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1431</YEAR>
+    <PRIV_HOSP>2</PRIV_HOSP>
+    <Region_x0020_Name>منطفة جيزان - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1431</YEAR>
+    <PRIV_HOSP>9</PRIV_HOSP>
+    <Region_x0020_Name>منطقة عسير - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1431</YEAR>
+    <PRIV_HOSP>26</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشؤون الصحية بجـدة</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1431</YEAR>
+    <PRIV_HOSP>4</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالطائف</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1431</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>منطقة حائل - المديرية العامة للشـؤون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1431</YEAR>
+    <PRIV_HOSP>8</PRIV_HOSP>
+    <Region_x0020_Name>منطقة االعاصمة المقدسة</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1431</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>منطقة تبوك - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1431</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>منطقة الباحه - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1431</YEAR>
+    <PRIV_HOSP>4</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالإحساء</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1431</YEAR>
+    <PRIV_HOSP>0</PRIV_HOSP>
+    <Region_x0020_Name>الشؤون الصحية للحدود الشمالية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1431</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>منطقة نجران - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1431</YEAR>
+    <PRIV_HOSP>0</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشئون الصحية ببيشة</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1431</YEAR>
+    <PRIV_HOSP>0</PRIV_HOSP>
+    <Region_x0020_Name>منطقة الجوف - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1431</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشؤون الصحية بحفر الباطن</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1431</YEAR>
+    <PRIV_HOSP>0</PRIV_HOSP>
+    <Region_x0020_Name>مديريه الشؤون الصحيه بمنطقه القريات</Region_x0020_Name>
+  </YB_POP_BEDS>
+  <YB_POP_BEDS>
+    <YEAR>1431</YEAR>
+    <PRIV_HOSP>1</PRIV_HOSP>
+    <Region_x0020_Name>مديرية الشـؤون الصحية بمنطقة القنفذه</Region_x0020_Name>
+  </YB_POP_BEDS>
+</NewDataSet>

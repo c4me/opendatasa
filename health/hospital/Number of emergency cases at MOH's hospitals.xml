@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NewDataSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>2629076</TotalPatient>
+		<TotalSaudiPatient>2368299</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1054905</TotalPatient>
+		<TotalSaudiPatient>888192</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>842514</TotalPatient>
+		<TotalSaudiPatient>766036</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>734634</TotalPatient>
+		<TotalSaudiPatient>692245</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>915014</TotalPatient>
+		<TotalSaudiPatient>880903</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>578306</TotalPatient>
+		<TotalSaudiPatient>575725</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1152302</TotalPatient>
+		<TotalSaudiPatient>1043114</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>710178</TotalPatient>
+		<TotalSaudiPatient>641922</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>229419</TotalPatient>
+		<TotalSaudiPatient>220567</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>413846</TotalPatient>
+		<TotalSaudiPatient>373888</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>454693</TotalPatient>
+		<TotalSaudiPatient>425407</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1586725</TotalPatient>
+		<TotalSaudiPatient>1296291</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1210302</TotalPatient>
+		<TotalSaudiPatient>1123556</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>509979</TotalPatient>
+		<TotalSaudiPatient>473386</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1368806</TotalPatient>
+		<TotalSaudiPatient>1321931</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1254777</TotalPatient>
+		<TotalSaudiPatient>1223108</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>536945</TotalPatient>
+		<TotalSaudiPatient>494381</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>152846</TotalPatient>
+		<TotalSaudiPatient>139932</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>486264</TotalPatient>
+		<TotalSaudiPatient>469121</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>59727</TotalPatient>
+		<TotalSaudiPatient>58489</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>2627224</TotalPatient>
+		<TotalSaudiPatient>2365907</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1089008</TotalPatient>
+		<TotalSaudiPatient>914781</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>903477</TotalPatient>
+		<TotalSaudiPatient>815675</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>852891</TotalPatient>
+		<TotalSaudiPatient>802739</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>977035</TotalPatient>
+		<TotalSaudiPatient>942680</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>438896</TotalPatient>
+		<TotalSaudiPatient>436038</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1141718</TotalPatient>
+		<TotalSaudiPatient>1038305</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>779220</TotalPatient>
+		<TotalSaudiPatient>716314</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>242673</TotalPatient>
+		<TotalSaudiPatient>232846</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>480905</TotalPatient>
+		<TotalSaudiPatient>436180</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>457710</TotalPatient>
+		<TotalSaudiPatient>424535</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1817151</TotalPatient>
+		<TotalSaudiPatient>1593633</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1328784</TotalPatient>
+		<TotalSaudiPatient>1230154</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>565257</TotalPatient>
+		<TotalSaudiPatient>523222</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1333970</TotalPatient>
+		<TotalSaudiPatient>1294275</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1304320</TotalPatient>
+		<TotalSaudiPatient>1257225</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>570537</TotalPatient>
+		<TotalSaudiPatient>515592</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>235639</TotalPatient>
+		<TotalSaudiPatient>221143</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>532160</TotalPatient>
+		<TotalSaudiPatient>511593</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>101893</TotalPatient>
+		<TotalSaudiPatient>101085</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>2730316</TotalPatient>
+		<TotalSaudiPatient>2445255</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1077596</TotalPatient>
+		<TotalSaudiPatient>897319</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>885715</TotalPatient>
+		<TotalSaudiPatient>801233</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>955521</TotalPatient>
+		<TotalSaudiPatient>897174</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>958423</TotalPatient>
+		<TotalSaudiPatient>920794</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>455499</TotalPatient>
+		<TotalSaudiPatient>446919</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1162518</TotalPatient>
+		<TotalSaudiPatient>1062568</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>826178</TotalPatient>
+		<TotalSaudiPatient>803079</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>259543</TotalPatient>
+		<TotalSaudiPatient>248479</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>647552</TotalPatient>
+		<TotalSaudiPatient>586369</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>410784</TotalPatient>
+		<TotalSaudiPatient>370808</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>2236028</TotalPatient>
+		<TotalSaudiPatient>2035686</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1368903</TotalPatient>
+		<TotalSaudiPatient>1258450</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>609173</TotalPatient>
+		<TotalSaudiPatient>565909</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1480744</TotalPatient>
+		<TotalSaudiPatient>1439804</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1420850</TotalPatient>
+		<TotalSaudiPatient>1323657</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>574677</TotalPatient>
+		<TotalSaudiPatient>510450</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>394980</TotalPatient>
+		<TotalSaudiPatient>370006</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>595679</TotalPatient>
+		<TotalSaudiPatient>573678</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>130375</TotalPatient>
+		<TotalSaudiPatient>129258</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>2749353</TotalPatient>
+		<TotalSaudiPatient>2448635</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1146999</TotalPatient>
+		<TotalSaudiPatient>957067</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1215636</TotalPatient>
+		<TotalSaudiPatient>1079628</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1035558</TotalPatient>
+		<TotalSaudiPatient>973691</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>989391</TotalPatient>
+		<TotalSaudiPatient>955851</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>463002</TotalPatient>
+		<TotalSaudiPatient>451817</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>959399</TotalPatient>
+		<TotalSaudiPatient>887013</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>829379</TotalPatient>
+		<TotalSaudiPatient>767054</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>269159</TotalPatient>
+		<TotalSaudiPatient>257194</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>582957</TotalPatient>
+		<TotalSaudiPatient>549977</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>455016</TotalPatient>
+		<TotalSaudiPatient>401024</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>2496210</TotalPatient>
+		<TotalSaudiPatient>2210186</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1395826</TotalPatient>
+		<TotalSaudiPatient>1285357</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>712928</TotalPatient>
+		<TotalSaudiPatient>655933</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1622765</TotalPatient>
+		<TotalSaudiPatient>1566251</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1421170</TotalPatient>
+		<TotalSaudiPatient>1325562</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>586340</TotalPatient>
+		<TotalSaudiPatient>524422</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>306613</TotalPatient>
+		<TotalSaudiPatient>290278</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>631524</TotalPatient>
+		<TotalSaudiPatient>606461</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>139146</TotalPatient>
+		<TotalSaudiPatient>138208</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>2763421</TotalPatient>
+		<TotalSaudiPatient>2453290</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1194931</TotalPatient>
+		<TotalSaudiPatient>965198</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1110197</TotalPatient>
+		<TotalSaudiPatient>983692</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1182420</TotalPatient>
+		<TotalSaudiPatient>1109448</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1036155</TotalPatient>
+		<TotalSaudiPatient>999536</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>456580</TotalPatient>
+		<TotalSaudiPatient>445965</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1074056</TotalPatient>
+		<TotalSaudiPatient>977154</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>852171</TotalPatient>
+		<TotalSaudiPatient>760377</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>301970</TotalPatient>
+		<TotalSaudiPatient>287694</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>529063</TotalPatient>
+		<TotalSaudiPatient>484113</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>498357</TotalPatient>
+		<TotalSaudiPatient>439885</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>2496460</TotalPatient>
+		<TotalSaudiPatient>2174195</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1494215</TotalPatient>
+		<TotalSaudiPatient>1370628</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>726688</TotalPatient>
+		<TotalSaudiPatient>668441</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1673981</TotalPatient>
+		<TotalSaudiPatient>1574300</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1680067</TotalPatient>
+		<TotalSaudiPatient>1553859</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>591004</TotalPatient>
+		<TotalSaudiPatient>520128</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>387739</TotalPatient>
+		<TotalSaudiPatient>363754</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>666093</TotalPatient>
+		<TotalSaudiPatient>635583</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>165909</TotalPatient>
+		<TotalSaudiPatient>162760</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>2765691</TotalPatient>
+		<TotalSaudiPatient>2450529</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1184701</TotalPatient>
+		<TotalSaudiPatient>954641</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1102410</TotalPatient>
+		<TotalSaudiPatient>995665</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1128444</TotalPatient>
+		<TotalSaudiPatient>1055068</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1045636</TotalPatient>
+		<TotalSaudiPatient>1005587</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>549613</TotalPatient>
+		<TotalSaudiPatient>523138</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1049650</TotalPatient>
+		<TotalSaudiPatient>950246</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>858392</TotalPatient>
+		<TotalSaudiPatient>777019</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>295868</TotalPatient>
+		<TotalSaudiPatient>274432</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>467533</TotalPatient>
+		<TotalSaudiPatient>424599</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>514454</TotalPatient>
+		<TotalSaudiPatient>449106</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>2476346</TotalPatient>
+		<TotalSaudiPatient>2127263</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1655300</TotalPatient>
+		<TotalSaudiPatient>1506265</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>797139</TotalPatient>
+		<TotalSaudiPatient>731680</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1667612</TotalPatient>
+		<TotalSaudiPatient>1569136</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>1764673</TotalPatient>
+		<TotalSaudiPatient>1631329</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>747503</TotalPatient>
+		<TotalSaudiPatient>644027</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>505431</TotalPatient>
+		<TotalSaudiPatient>471429</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>686435</TotalPatient>
+		<TotalSaudiPatient>656012</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalPatient>213937</TotalPatient>
+		<TotalSaudiPatient>209218</TotalSaudiPatient>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+</NewDataSet>

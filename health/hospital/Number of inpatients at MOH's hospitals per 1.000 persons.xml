@@ -1,0 +1,843 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NewDataSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>43.4487297790538</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>53.8081144535283</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>40.8442827128018</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>50.6627307492608</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>42.8417803010294</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>57.7437106460821</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>39.7927627921214</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>53.6273949657527</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>33.6213602087889</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>50.9886794241698</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>51.1824593430971</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>79.2915584812909</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>23.7473424219556</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>68.0939858941346</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>72.2360026574169</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>67.5680409842991</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>89.4088052527189</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>63.7874609960016</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>60.7366996775679</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>59.2725110838019</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>51.1824593430971</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>65.8224975243202</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>64.3808587030668</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>149.344993533516</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>518.742974439177</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>44.3598700513699</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>521.297824300717</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>45.0018488231923</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>529.343367874986</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>40.6467284475081</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>537.432191097435</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>37.0986234755457</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>23.7473424219556</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>38.288080720395</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>519.099670043752</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>124.47924778072</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>518.177152010195</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>79.3937126415279</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>539.111350571162</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>79.3472346952822</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>553.135273592707</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>77.7531388937117</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>518.610737061409</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>79.8509240485556</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>72.2360026574169</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>79.0584895004896</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>518.355256197764</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>74.5875122960379</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>78.885556538042</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>84.5837938428694</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>73.34698039029</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>79.2915584812909</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>67.3579077275019</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>77.638164114145</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>77.4358988245297</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>89.8633431435727</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>89.4088052527189</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>104.70828192716</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>87.192450460005</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>101.886392426869</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>70.4641361676227</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>78.1284786494412</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>69.3113302432509</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>76.8264392907563</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>64.9370629729252</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>74.6192705538388</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>65.7933923556501</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>75.8163638471899</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>60.7366996775679</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>69.6705220635922</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>45.1773595859386</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>51.3740056070244</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>50.3898928844549</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>60.4580769214246</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>50.3354668089937</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>60.9973729341409</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>43.3739527081154</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>59.8641035859392</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>39.4773717726579</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>55.6393910171851</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>39.7911422120034</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>55.9573901523932</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>35.4000835023099</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>50.1659631165267</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>78.8029699384281</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>78.692873364495</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>79.3194145555681</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>79.4206096359583</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>77.1159835004137</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>80.3792768088476</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>72.3142926801459</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>76.1174375823012</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>64.3808587030668</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>68.1994523048836</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>61.6114618892643</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>65.0298921426169</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>212.653969680932</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>225.440326081554</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>214.870361854904</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>230.760542472429</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>207.163673331074</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>237.388994181764</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>193.850675996436</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>221.113344820984</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>201.792187381176</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>230.553105805777</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>205.718701700155</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>233.85907962574</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>106.224673679324</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>107.218377911339</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>202.608163212132</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>215.550838996901</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>235.430108197826</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>258.381591262487</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>224.881486073303</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>231.409235811862</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>220.43340399068</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>243.78314134211</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>136.993834265981</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>145.183936129943</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>155.359706431034</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>171.045380216286</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>137.47091291298</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>149.344993533516</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>125.559480132258</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>144.854020194056</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>135.963546362012</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>157.398648648649</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>132.22095977327</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>152.157300121858</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>136.666583693231</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>158.46283210168</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>68.2126188511163</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>77.2530005563946</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>68.7516211164447</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>77.7058164541446</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>67.3838665461522</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>81.6530852776053</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>66.5502639239383</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>81.0933992945811</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>67.0843192928512</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>82.4151816024577</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>64.4062493949223</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>79.5036059256184</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>102.807330547037</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>113.064078131642</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>100.98754648935</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>111.187040811178</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>94.6557903965759</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>110.008605360741</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>94.28971796153</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>110.392448575543</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>94.5119869778302</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>109.827364521063</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>91.9059513458431</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>107.135651020934</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>125.975440507352</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>135.07025189859</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>138.304415466278</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>146.95896557691</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>129.787789879828</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>147.847718820043</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>129.509473971678</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>148.354887075271</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>111.828889664772</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>128.07192420474</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>108.794995234721</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>123.897090858119</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>88.0020904928905</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>96.4033476695871</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>88.1335800719217</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>96.5265190261071</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>78.9251219619084</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>88.677751993386</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>72.1752349094739</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>81.0512655080974</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>69.5920521237678</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>78.5501998182159</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>70.6725702499748</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>80.2490869997981</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>77.8766886536482</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>83.8751813176107</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>77.8916585392998</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>83.1594572080395</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>83.3858505951546</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>90.4818137807157</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>79.4822321186409</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>86.5075626733658</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>74.6751201610363</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>79.5640917554258</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>72.897473381787</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>77.831864799704</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>117.725274636314</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>123.811390547414</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>124.094317907214</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>124.47924778072</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>113.129187662661</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>119.259785698666</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>108.292309209379</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>114.244311377246</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>101.321895135071</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>103.835726219739</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>104.944976753151</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>106.458559316787</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>99.7436552211833</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>105.018249753499</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>102.394248783155</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>109.485565594107</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>137.171940694844</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>150.688496828195</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>119.231901618182</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>130.89883510329</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>112.678233316589</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>123.458157673537</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>110.884573894283</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>122.540809038998</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>134.921788829841</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>146.240601503759</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>133.062035328041</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>144.774647405566</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>141.890513926116</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>158.06170332381</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>125.614277092853</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>140.117162673741</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>122.265739543151</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>136.449821617425</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>119.891376934904</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>133.511394408812</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>61.4997510834623</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>63.5814354387063</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>58.3885222251252</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>60.7928440397853</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>52.2090564707955</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>55.8619276775971</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>52.7325091565407</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>57.087747697685</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>50.5916528419299</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>53.8486104156728</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>المنومين بالمستشفى</CaseType>
+		<TheNumberOfInpatientsPer1000People>49.3586899528093</TheNumberOfInpatientsPer1000People>
+		<TheNumberOfInpatientsPer1000PeopleSaudi>52.1862266946537</TheNumberOfInpatientsPer1000PeopleSaudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+</NewDataSet>

@@ -1,0 +1,843 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NewDataSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>432.060989668798</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>570.931858676526</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>420.531723187906</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>555.344378689336</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>402.871061063167</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>569.094744975557</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>387.470920510731</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>549.499586860133</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>374.76451516973</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>538.417577420475</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>367.926843820753</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>546.99633538173</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>662.201166583387</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>932.75139987482</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>670.793236433476</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1058.36649548574</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>583.842626304657</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1343.33812017042</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>592.420216886935</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>867.370483554647</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>530.811908520192</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>855.692467816162</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>576.602617609167</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>2051.77420384198</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>256.123141352089</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>431.529949644061</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>269.510957159643</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1693.51351351351</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>240.888965040823</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1687.34521246545</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>314.755881107827</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>546.99633538173</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>314.573110280245</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>487.404284753045</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>268.346674274297</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1158.85367340657</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>675.416829475717</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>770.826095477342</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>769.397519932017</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1256.1005988024</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>853.123945336983</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>970.005413461474</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>886.615467598181</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1030.92267214408</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>980.893419569765</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1149.63343678274</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>918.693428553285</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1031.682980084</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>926.792607245483</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1040.1646971028</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>969.015428315263</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1088.31505582539</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>901.525897553597</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1057.68243360438</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>893.035182873498</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1058.36649548574</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>849.696687502471</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1082.68279024223</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>897.216630542413</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1040.67243069934</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1571.41110329142</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1831.08155385506</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1167.81702170685</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1355.91544302853</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1167.96711735852</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1378.33311744786</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1139.59344010515</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1343.33812017042</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1103.25148464811</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1296.98674119594</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1286.59848355389</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>425.305878591023</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>504.122924756623</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>640.191926116546</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>489.843322970574</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>623.046052260489</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>438.243659701999</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>626.406302688452</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>345.599100303093</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>504.346871844325</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>386.570267747094</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>543.215518060876</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>356.873776874756</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>516.983404776452</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>918.634552698298</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>953.44909790082</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>980.632008154944</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1031.682980084</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1043.76685806692</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1214.66438176942</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1006.00415560345</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1118.57357639815</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>987.195248835769</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1084.51762893656</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>990.296526431035</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1084.60251057706</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1663.26404848731</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1827.3076731894</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1716.76276042588</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1878.53264596494</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1759.01728227719</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>2056.48571925149</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1750.36579893739</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>2051.77420384198</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1769.46518553175</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>2245.31143907407</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1829.1684698609</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>2096.10082108077</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1334.12206923898</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1416.87572475576</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1566.28212978283</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1612.84120070107</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>2020.29177222298</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>2186.49996084675</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1745.76179823734</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1976.60677896659</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1812.92490222327</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1702.29756529811</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1332.10911411737</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1461.16177432121</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1745.34197253165</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1921.66650103445</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1715.09830592309</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1867.51625419002</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1404.58662581764</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1624.32047659724</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1491.63566031241</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1693.51351351351</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1410.98156114004</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1817.06838507136</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1600.7256026983</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1815.56734205462</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>946.885269771819</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1030.35609252047</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1056.7940335936</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1236.36734617879</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1257.65594091566</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1612.40922858555</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1343.13878471232</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1687.34521246545</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1336.57926004644</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1623.95029693815</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1261.79506541972</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1554.98725901408</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1089.46605179704</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1260.26868688455</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1169.96788008565</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1349.3531593946</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1125.87407411063</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1355.37124215528</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1100.08559039244</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1334.45285498786</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1100.94317555776</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1392.04036489278</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1237.54918459916</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1497.14886058788</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>895.910264743601</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>962.276194038346</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>973.847290920462</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1040.67243069934</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1020.14421981968</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1161.54424019507</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1145.2750624503</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1297.44361675614</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1117.39534768759</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1293.78598871587</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1217.49682314704</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1385.96232019124</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>845.590783545646</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>963.800898379316</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>875.377326298659</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1006.00599433523</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>940.473188704495</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1105.26045093089</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>989.109684560584</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1158.85367340657</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1069.16070777832</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1135.64554989684</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>966.70133224815</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1111.63645766548</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>944.928372242936</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1103.33840902366</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>955.016855133714</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1103.5830624611</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1048.51266686837</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1197.77666173496</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>998.583459927234</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1156.26210289423</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>955.696810350328</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1325.9336563421</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1178.5094869228</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1362.33238381799</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1086.69562120022</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1242.33811792614</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1168.40055211281</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1254.65270207133</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1136.50692571175</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1268.43826411944</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1111.89914513058</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1256.1005988024</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1047.60257017679</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1218.80909476486</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1346.5392728537</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1476.93306150343</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>750.599119981143</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>806.863983116816</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>704.078858122907</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>765.208635383758</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1165.39057313565</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1284.01188212268</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>868.011754181341</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>970.005413461474</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>921.188508940381</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1185.10578683643</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1363.08252427184</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1509.79513013736</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1218.95116815402</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1356.62521688837</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1314.88111563274</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1458.24449587832</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1446.21596162063</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1645.49272020101</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1471.52480526047</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1675.81585564674</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1436.2879958554</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1719.13467546273</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>1522.93042666057</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>1736.52431486634</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>230.496713915785</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>250.813689712989</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>385.822418617684</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>425.305878591023</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>478.573840777611</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>540.423699405048</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>490.508571368141</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>556.534064597704</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>517.894936777555</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>641.704483178716</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+	<YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<CaseType>حالات الطوارىء</CaseType>
+		<TotalEmergentCaseFor1000>719.07729332204</TotalEmergentCaseFor1000>
+		<TotalEmergentCaseFor1000Saudi>807.267872576861</TotalEmergentCaseFor1000Saudi>
+	</YB_MAIN_RSCR_SRVC_TOT_PATIENTS_Case_Type3>
+</NewDataSet>

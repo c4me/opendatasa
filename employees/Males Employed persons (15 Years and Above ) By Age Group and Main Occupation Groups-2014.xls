@@ -1,0 +1,162 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html lang="en" dir="ltr"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:owl="http://www.w3.org/2002/07/owl#"
+  xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+  xmlns:rss="http://purl.org/rss/1.0/"
+  xmlns:site="http://data.gov.sa/ns#"
+  xmlns:dcat="http://www.w3.org/ns/dcat#">
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="shortcut icon" href="http://data.gov.sa/profiles/dkan/themes/contrib/nuboot_radix/favicon.ico" type="image/vnd.microsoft.icon" />
+  <title>Page not found | Saudi Open Data</title>
+  <style type="text/css" media="all">
+@import url("http://data.gov.sa/modules/system/system.base.css?noukp6");
+@import url("http://data.gov.sa/modules/system/system.messages.css?noukp6");
+@import url("http://data.gov.sa/modules/system/system.theme.css?noukp6");
+</style>
+<style type="text/css" media="all">
+@import url("http://data.gov.sa/profiles/dkan/modules/contrib/date/date_api/date.css?noukp6");
+@import url("http://data.gov.sa/profiles/dkan/modules/contrib/date/date_popup/themes/datepicker.1.7.css?noukp6");
+@import url("http://data.gov.sa/modules/field/theme/field.css?noukp6");
+@import url("http://data.gov.sa/modules/node/node.css?noukp6");
+@import url("http://data.gov.sa/profiles/dkan/modules/contrib/radix_layouts/radix_layouts.css?noukp6");
+@import url("http://data.gov.sa/modules/user/user.css?noukp6");
+@import url("http://data.gov.sa/profiles/dkan/modules/contrib/views/css/views.css?noukp6");
+</style>
+<style type="text/css" media="all">
+@import url("http://data.gov.sa/profiles/dkan/libraries/chosen/chosen/chosen.css?noukp6");
+@import url("http://data.gov.sa/profiles/dkan/modules/contrib/chosen/css/chosen-drupal.css?noukp6");
+@import url("http://data.gov.sa/profiles/dkan/modules/contrib/ctools/css/ctools.css?noukp6");
+@import url("http://data.gov.sa/profiles/dkan/modules/contrib/panels/css/panels.css?noukp6");
+</style>
+<link type="text/css" rel="stylesheet" href="//fonts.googleapis.com/css?family=Droid+Sans:400,700|Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" media="all" />
+<style type="text/css" media="all">
+@import url("http://data.gov.sa/profiles/dkan/themes/contrib/nuboot_radix/assets/stylesheets/screen.css?noukp6");
+@import url("http://data.gov.sa/profiles/dkan/themes/contrib/nuboot_radix/assets/stylesheets/font-awesome.min.css?noukp6");
+@import url("http://data.gov.sa/profiles/dkan/themes/contrib/nuboot_radix/assets/stylesheets/dkan-flaticon.css?noukp6");
+</style>
+<style type="text/css" media="print">
+@import url("http://data.gov.sa/profiles/dkan/themes/contrib/nuboot_radix/assets/stylesheets/print.css?noukp6");
+</style>
+<link type="text/css" rel="stylesheet" href="http://data.gov.sa/sites/default/files/colorizer/nuboot_radix-29f4fd9e.css" media="all" />
+  <!-- HTML5 element support for IE6-8 -->
+  <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <link href="/css/ie.css" media="screen" rel="stylesheet" type="text/css" />
+  <![endif]-->
+  <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.jQuery || document.write("<script src='/profiles/dkan/modules/contrib/jquery_update/replace/jquery/1.10/jquery.min.js'>\x3C/script>")
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://data.gov.sa/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://data.gov.sa/misc/drupal.js?noukp6"></script>
+<script type="text/javascript" src="http://data.gov.sa/profiles/dkan/libraries/chosen/chosen/chosen.jquery.min.js?noukp6"></script>
+<script type="text/javascript" src="http://netdna.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+<script type="text/javascript" src="http://data.gov.sa/profiles/dkan/themes/contrib/radix/assets/javascripts/modernizr.js?noukp6"></script>
+<script type="text/javascript" src="http://data.gov.sa/profiles/dkan/themes/contrib/nuboot_radix/assets/javascripts/sitewide.js?noukp6"></script>
+<script type="text/javascript" src="http://data.gov.sa/profiles/dkan/themes/contrib/nuboot_radix/assets/javascripts/svgeezy.min.js?noukp6"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"nuboot_radix","theme_token":"di0ucNukAkY8kNlOm3YzaAKGYm1JcfnBR0VlIxzfRKc","js":{"profiles\/dkan\/modules\/contrib\/chosen\/chosen.js":1,"\/\/ajax.googleapis.com\/ajax\/libs\/jquery\/1.10.2\/jquery.min.js":1,"0":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/dkan\/libraries\/chosen\/chosen\/chosen.jquery.min.js":1,"http:\/\/netdna.bootstrapcdn.com\/bootstrap\/3.2.0\/js\/bootstrap.min.js":1,"profiles\/dkan\/themes\/contrib\/radix\/assets\/javascripts\/modernizr.js":1,"profiles\/dkan\/themes\/contrib\/nuboot_radix\/assets\/javascripts\/sitewide.js":1,"profiles\/dkan\/themes\/contrib\/nuboot_radix\/assets\/javascripts\/svgeezy.min.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"profiles\/dkan\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/dkan\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"profiles\/dkan\/modules\/contrib\/radix_layouts\/radix_layouts.css":1,"modules\/user\/user.css":1,"profiles\/dkan\/modules\/contrib\/views\/css\/views.css":1,"profiles\/dkan\/libraries\/chosen\/chosen\/chosen.css":1,"profiles\/dkan\/modules\/contrib\/chosen\/css\/chosen-drupal.css":1,"profiles\/dkan\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/dkan\/modules\/contrib\/panels\/css\/panels.css":1,"\/\/fonts.googleapis.com\/css?family=Droid+Sans:400,700|Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800":1,"profiles\/dkan\/themes\/contrib\/nuboot_radix\/assets\/stylesheets\/screen.css":1,"profiles\/dkan\/themes\/contrib\/nuboot_radix\/assets\/stylesheets\/font-awesome.min.css":1,"profiles\/dkan\/themes\/contrib\/nuboot_radix\/assets\/stylesheets\/dkan-flaticon.css":1,"profiles\/dkan\/themes\/contrib\/nuboot_radix\/assets\/stylesheets\/print.css":1,"http:\/\/data.gov.sa\/sites\/default\/files\/colorizer\/nuboot_radix-29f4fd9e.css":1}},"chosen":{"selector":".node-form  select, .field-name-field-format select, .field-name-field-dataset-ref select","minimum":"0","minimum_width":200,"search_contains":false,"placeholder_text_multiple":"Choose some options","placeholder_text_single":"Choose an option","no_results_text":"No results match"}});
+//--><!]]>
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-sites page-sites-default page-sites-default-files page-sites-default-files-males-employed-persons-15-years-and-above--by-age-group-and-main-occupation-groups-2014xls" >
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div class="top-bar">
+  <div class="l"></div>
+  <div class="r"></div>
+</div>
+<header id="header" class="header" role="header">
+  <div class="branding container">
+          <a class="logo navbar-btn pull-left" href="/" title="Home">
+        <img src="http://data.gov.sa/sites/default/files/logo_0.png" alt="Home" />
+      </a>
+                <!-- views exposed search -->
+    <section id="block-dkan-sitewide-dkan-sitewide-search-bar" class="block block-dkan-sitewide clearfix">
+
+        <div class="content">
+  	<form action="/sites/default/files/Males%20Employed%20persons%20%2815%20Years%20and%20Above%20%29%20By%20Age%20Group%20and%20Main%20Occupation%20Groups-2014.xls" method="post" id="dkan-sitewide-dataset-search-form" accept-charset="UTF-8" role="form"><div><div class="form-item form-type-textfield form-item-search form-group">
+ <input placeholder="search" class="form-control form-text" type="text" id="edit-search" name="search" value="" size="30" maxlength="128" />
+</div>
+<input type="submit" id="edit-submit" name="op" value="" class="form-submit btn btn-default btn-primary" /><input type="hidden" name="form_build_id" value="form-6w0uHbvnAECCK84R_bHyMfpDkwKyVOyek3SA2tmCmGQ" />
+<input type="hidden" name="form_id" value="dkan_sitewide_dataset_search_form" />
+</div></form>  </div>
+
+</section>
+  </div>
+  <div class="navigation-wrapper">
+    <div class="container">
+      <nav class="navbar navbar-default" role="navigation">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div> <!-- /.navbar-header -->
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse" id="navbar-collapse">
+                      <ul id="main-menu" class="menu nav navbar-nav">
+                          </ul>
+                  </div><!-- /.navbar-collapse -->
+      </nav><!-- /.navbar -->
+    </div><!-- /.container -->
+  </div> <!-- /.navigation -->
+</header>
+
+<div id="main-wrapper">
+  <div id="main" class="main container">
+
+    <ul class="breadcrumb"><li class="home-link"><a href="/"><i class="fa fa fa-home"></i><span> Home</span></a></li><li class="active-trail">Page not found</li></ul>        
+
+    <div class="main-row">
+
+      <section> 
+        <a id="main-content"></a>
+                                                  <div class="region region-content">
+    <section id="block-system-main" class="block block-system clearfix">
+
+        <div class="content">
+  	The requested page "/sites/default/files/Males%20Employed%20persons%20%2815%20Years%20and%20Above%20%29%20By%20Age%20Group%20and%20Main%20Occupation%20Groups-2014.xls" could not be found.  </div>
+
+</section>
+  </div>
+      </section>
+
+    </div>
+
+  </div> <!-- /#main -->
+</div> <!-- /#main-wrapper -->
+
+<footer id="footer" class="footer" role="footer">
+  <div class="container">
+          <small class="copyright pull-left"><p><img alt="" src="/images/f_logo.png" /><a href="http://saudi.gov.sa">SAUDI</a> | National e-Government Portal<br /><br />
+Data is not subject to any copyright, patent, trademark or trade secret regulation. Reasonable privacy, security and privilege restrictions may be applied.</p>
+</small>
+        <small class="pull-right"></small>
+  </div>
+</footer>  <script type="text/javascript" src="http://data.gov.sa/profiles/dkan/modules/contrib/chosen/chosen.js?noukp6"></script>
+</body>
+</html>

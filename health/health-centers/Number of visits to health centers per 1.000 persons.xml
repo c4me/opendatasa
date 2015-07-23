@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NewDataSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>1149.78038326403</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1434</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2729.76696739663</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1434</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<NumberOfOutpatientVisitsPer1000>1002.8114030972</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1434</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2609.42699521443</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1434</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3168.73973621873</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1434</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2116.62127678322</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<NumberOfOutpatientVisitsPer1000>584.309602653843</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<NumberOfOutpatientVisitsPer1000>1965.60081542667</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1434</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2826.82791231886</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1434</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<NumberOfOutpatientVisitsPer1000>1892.98085342177</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1434</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>1815.5186357223</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3768.50818555553</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<NumberOfOutpatientVisitsPer1000>2534.57116821203</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1434</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<NumberOfOutpatientVisitsPer1000>3154.0008889598</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1434</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2845.72414700007</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<NumberOfOutpatientVisitsPer1000>3584.13430420712</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2746.23508033903</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<NumberOfOutpatientVisitsPer1000>2766.41392564779</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1434</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<NumberOfOutpatientVisitsPer1000>2041.69397217929</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<NumberOfOutpatientVisitsPer1000>3905.26223799728</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>1125.67814952901</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1433</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2937.08156680436</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1433</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<NumberOfOutpatientVisitsPer1000>1043.37791394614</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1433</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2670.99997468593</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1433</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3323.44406863215</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1433</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2264.18618415892</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<NumberOfOutpatientVisitsPer1000>607.565541887593</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<NumberOfOutpatientVisitsPer1000>2095.71708525434</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1433</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2929.48321509819</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1433</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<NumberOfOutpatientVisitsPer1000>1891.24910951087</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1433</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>1767.98087620011</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>4008.43549043364</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<NumberOfOutpatientVisitsPer1000>2628.66214867165</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1433</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<NumberOfOutpatientVisitsPer1000>3052.98133127785</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1433</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3080.26134953006</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<NumberOfOutpatientVisitsPer1000>3804.00545395329</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2843.99535305307</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<NumberOfOutpatientVisitsPer1000>3151.73978965147</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1433</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<NumberOfOutpatientVisitsPer1000>2067.47953053309</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<NumberOfOutpatientVisitsPer1000>3967.46769830179</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>1254.81870056205</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1432</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2891.25472830093</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1432</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<NumberOfOutpatientVisitsPer1000>1063.59440729729</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1432</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2779.30919253425</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1432</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3399.34555286519</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1432</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2312.32476265244</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<NumberOfOutpatientVisitsPer1000>642.765761602007</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<NumberOfOutpatientVisitsPer1000>2224.13376826856</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1432</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3026.90784664937</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1432</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<NumberOfOutpatientVisitsPer1000>1910.63743851117</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1432</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>1996.76018189559</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3917.8633759201</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<NumberOfOutpatientVisitsPer1000>2707.16772407543</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1432</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<NumberOfOutpatientVisitsPer1000>3411.2934863009</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1432</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3275.19096129194</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<NumberOfOutpatientVisitsPer1000>4141.20021741838</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3207.47102886459</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<NumberOfOutpatientVisitsPer1000>3197.88720781123</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1432</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<NumberOfOutpatientVisitsPer1000>2061.53876168118</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<NumberOfOutpatientVisitsPer1000>4276.40591235807</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>1439.90080780317</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1431</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2799.75623378384</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1431</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<NumberOfOutpatientVisitsPer1000>1064.69054822019</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1431</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3004.82046423184</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1431</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3526.97935960918</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1431</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2541.81827882071</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<NumberOfOutpatientVisitsPer1000>643.636690001795</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<NumberOfOutpatientVisitsPer1000>2293.66907553932</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1431</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3208.0804630039</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1431</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<NumberOfOutpatientVisitsPer1000>1886.42604199175</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1431</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2057.77255585666</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>4284.65019616983</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<NumberOfOutpatientVisitsPer1000>2844.42372957882</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1431</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<NumberOfOutpatientVisitsPer1000>3921.72193033907</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1431</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3354.2871381899</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<NumberOfOutpatientVisitsPer1000>4349.03592240171</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3240.1567399191</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<NumberOfOutpatientVisitsPer1000>3392.44550543215</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1431</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<NumberOfOutpatientVisitsPer1000>2171.99593358184</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<NumberOfOutpatientVisitsPer1000>4361.05482630018</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>1631.87627593365</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1430</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2593.34839202696</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1430</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<NumberOfOutpatientVisitsPer1000>1243.44361677755</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1430</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3236.87556350727</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1430</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3412.62494911243</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1430</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2722.49389715726</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<NumberOfOutpatientVisitsPer1000>684.83418613524</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<NumberOfOutpatientVisitsPer1000>2351.48098632589</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1430</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3193.36982308157</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1430</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<NumberOfOutpatientVisitsPer1000>2163.18265337738</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1430</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2056.42390606713</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>4361.02401407388</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<NumberOfOutpatientVisitsPer1000>3004.71200345937</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1430</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<NumberOfOutpatientVisitsPer1000>3958.6856264412</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1430</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3468.35386007954</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<NumberOfOutpatientVisitsPer1000>3755.93183875797</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3280.94097897486</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<NumberOfOutpatientVisitsPer1000>3484.07241649061</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1430</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<NumberOfOutpatientVisitsPer1000>2445.28315234693</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<NumberOfOutpatientVisitsPer1000>4329.98981419424</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>1596.34919839309</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1429</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2541.86799671308</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1429</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<NumberOfOutpatientVisitsPer1000>1211.95700678463</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1429</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3240.94686082529</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1429</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3423.1425845334</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1429</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2947.55791017429</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<NumberOfOutpatientVisitsPer1000>652.695495469204</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<NumberOfOutpatientVisitsPer1000>2478.43427494426</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1429</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3156.48156281292</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1429</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<NumberOfOutpatientVisitsPer1000>2335.42536603249</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1429</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>2191.84560459461</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>4485.22009425449</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<NumberOfOutpatientVisitsPer1000>2854.92423206532</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1429</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<NumberOfOutpatientVisitsPer1000>3952.15360363119</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1429</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3152.51726343229</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<NumberOfOutpatientVisitsPer1000>4912.40080144574</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfOutpatientVisitsPer1000>3318.22369279666</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<NumberOfOutpatientVisitsPer1000>3171.63881016366</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1429</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<NumberOfOutpatientVisitsPer1000>2661.89381801309</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+	<YB_POP_BEDS_PHC_VISITS>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<NumberOfOutpatientVisitsPer1000>4433.50069272122</NumberOfOutpatientVisitsPer1000>
+	</YB_POP_BEDS_PHC_VISITS>
+</NewDataSet>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NewDataSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<ALOS_BOR_ALL_BOR>
+		<YEAR>1429</YEAR>
+		<CategoryOfHospital>م/ عام</CategoryOfHospital>
+		<AverageLengthOfStay>61.2</AverageLengthOfStay>
+	</ALOS_BOR_ALL_BOR>
+	<ALOS_BOR_ALL_BOR>
+		<YEAR>1429</YEAR>
+		<CategoryOfHospital>م/نفسية وصدرية وحميات</CategoryOfHospital>
+		<AverageLengthOfStay>7.4</AverageLengthOfStay>
+	</ALOS_BOR_ALL_BOR>
+	<ALOS_BOR_ALL_BOR>
+		<YEAR>1429</YEAR>
+		<CategoryOfHospital>م/النساء والولادة   والأطفال </CategoryOfHospital>
+		<AverageLengthOfStay>82.5</AverageLengthOfStay>
+	</ALOS_BOR_ALL_BOR>
+	<ALOS_BOR_ALL_BOR>
+		<YEAR>1430</YEAR>
+		<CategoryOfHospital>م/ عام</CategoryOfHospital>
+		<AverageLengthOfStay>59.8</AverageLengthOfStay>
+	</ALOS_BOR_ALL_BOR>
+	<ALOS_BOR_ALL_BOR>
+		<YEAR>1430</YEAR>
+		<CategoryOfHospital>م/نفسية وصدرية وحميات</CategoryOfHospital>
+		<AverageLengthOfStay>7.6</AverageLengthOfStay>
+	</ALOS_BOR_ALL_BOR>
+	<ALOS_BOR_ALL_BOR>
+		<YEAR>1430</YEAR>
+		<CategoryOfHospital>م/النساء والولادة   والأطفال </CategoryOfHospital>
+		<AverageLengthOfStay>82.3</AverageLengthOfStay>
+	</ALOS_BOR_ALL_BOR>
+	<ALOS_BOR_ALL_BOR>
+		<YEAR>1431</YEAR>
+		<CategoryOfHospital>م/ عام</CategoryOfHospital>
+		<AverageLengthOfStay>58.2</AverageLengthOfStay>
+	</ALOS_BOR_ALL_BOR>
+	<ALOS_BOR_ALL_BOR>
+		<YEAR>1431</YEAR>
+		<CategoryOfHospital>م/نفسية وصدرية وحميات</CategoryOfHospital>
+		<AverageLengthOfStay>7.2</AverageLengthOfStay>
+	</ALOS_BOR_ALL_BOR>
+	<ALOS_BOR_ALL_BOR>
+		<YEAR>1431</YEAR>
+		<CategoryOfHospital>م/النساء والولادة   والأطفال </CategoryOfHospital>
+		<AverageLengthOfStay>77.5</AverageLengthOfStay>
+	</ALOS_BOR_ALL_BOR>
+	<ALOS_BOR_ALL_BOR>
+		<YEAR>1432</YEAR>
+		<CategoryOfHospital>م/ عام</CategoryOfHospital>
+		<AverageLengthOfStay>55.1</AverageLengthOfStay>
+	</ALOS_BOR_ALL_BOR>
+	<ALOS_BOR_ALL_BOR>
+		<YEAR>1432</YEAR>
+		<CategoryOfHospital>م/نفسية وصدرية وحميات</CategoryOfHospital>
+		<AverageLengthOfStay>6.9</AverageLengthOfStay>
+	</ALOS_BOR_ALL_BOR>
+	<ALOS_BOR_ALL_BOR>
+		<YEAR>1432</YEAR>
+		<CategoryOfHospital>م/النساء والولادة   والأطفال </CategoryOfHospital>
+		<AverageLengthOfStay>77.2</AverageLengthOfStay>
+	</ALOS_BOR_ALL_BOR>
+	<ALOS_BOR_ALL_BOR>
+		<YEAR>1433</YEAR>
+		<CategoryOfHospital>م/ عام</CategoryOfHospital>
+		<AverageLengthOfStay>54.2</AverageLengthOfStay>
+	</ALOS_BOR_ALL_BOR>
+	<ALOS_BOR_ALL_BOR>
+		<YEAR>1433</YEAR>
+		<CategoryOfHospital>م/نفسية وصدرية وحميات</CategoryOfHospital>
+		<AverageLengthOfStay>5.4</AverageLengthOfStay>
+	</ALOS_BOR_ALL_BOR>
+	<ALOS_BOR_ALL_BOR>
+		<YEAR>1433</YEAR>
+		<CategoryOfHospital>م/النساء والولادة   والأطفال </CategoryOfHospital>
+		<AverageLengthOfStay>83.8</AverageLengthOfStay>
+	</ALOS_BOR_ALL_BOR>
+	<ALOS_BOR_ALL_BOR>
+		<YEAR>1434</YEAR>
+		<CategoryOfHospital>م/ عام</CategoryOfHospital>
+		<AverageLengthOfStay>52.2</AverageLengthOfStay>
+	</ALOS_BOR_ALL_BOR>
+	<ALOS_BOR_ALL_BOR>
+		<YEAR>1434</YEAR>
+		<CategoryOfHospital>م/نفسية وصدرية وحميات</CategoryOfHospital>
+		<AverageLengthOfStay>4.9</AverageLengthOfStay>
+	</ALOS_BOR_ALL_BOR>
+	<ALOS_BOR_ALL_BOR>
+		<YEAR>1434</YEAR>
+		<CategoryOfHospital>م/النساء والولادة   والأطفال </CategoryOfHospital>
+		<AverageLengthOfStay>59.1</AverageLengthOfStay>
+	</ALOS_BOR_ALL_BOR>
+</NewDataSet>

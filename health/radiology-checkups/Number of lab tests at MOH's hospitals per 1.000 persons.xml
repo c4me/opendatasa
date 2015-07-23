@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NewDataSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>3392.65895531034</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1429</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<NumberOfLaboratoryTestsFor1000Person>4546.86860494605</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<NumberOfLaboratoryTestsFor1000Person>2329.72730102679</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<NumberOfLaboratoryTestsFor1000Person>4735.28857425242</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5734.68004873943</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<NumberOfLaboratoryTestsFor1000Person>3728.81687530739</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1429</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>3764.38473747854</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1429</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>3308.38593677239</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1429</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<NumberOfLaboratoryTestsFor1000Person>11110.8944197545</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1429</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5627.84775032963</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>7428.66135929187</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1429</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>7982.19762002374</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1429</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>6901.04985718954</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1429</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>6654.94264181438</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1429</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>6053.24208636627</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1429</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>4362.45761186589</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1429</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>4735.13685267189</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<NumberOfLaboratoryTestsFor1000Person>7474.57177653807</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>13038.9426451419</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<NumberOfLaboratoryTestsFor1000Person>4240.51512216206</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>3354.28641675094</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1430</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<NumberOfLaboratoryTestsFor1000Person>4323.40004053064</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<NumberOfLaboratoryTestsFor1000Person>2648.19825772466</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5460.5987453519</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<NumberOfLaboratoryTestsFor1000Person>6210.18054580293</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<NumberOfLaboratoryTestsFor1000Person>4227.8341572962</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1430</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>4349.64659929586</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1430</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>3194.70180340041</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1430</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<NumberOfLaboratoryTestsFor1000Person>11676.9834813059</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1430</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>7401.44803866648</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>7854.45027747488</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1430</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>7769.06171234096</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1430</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>7543.11799137834</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1430</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5495.02874558307</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1430</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>6695.90912670289</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1430</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5585.2377730722</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1430</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5468.70814612149</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5366.29048306277</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>14070.693144166</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<NumberOfLaboratoryTestsFor1000Person>4403.11935568152</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>4051.53201657453</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1431</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<NumberOfLaboratoryTestsFor1000Person>3717.84085786608</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<NumberOfLaboratoryTestsFor1000Person>2702.11811164961</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5587.05958611675</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5816.01091888719</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<NumberOfLaboratoryTestsFor1000Person>4902.33158031042</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1431</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>3989.41634387929</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1431</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>3307.30542553393</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1431</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<NumberOfLaboratoryTestsFor1000Person>12009.2036597763</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1431</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>7666.78314260399</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>8304.35377266557</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1431</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>8325.71699833458</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1431</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>7578.72300877241</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1431</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5018.11790790831</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1431</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5336.17789385233</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1431</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>6674.06704990739</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1431</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5706.96249594583</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<NumberOfLaboratoryTestsFor1000Person>6915.52703400457</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>14542.7713358971</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5064.76301647432</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>3188.26498593431</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1432</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<NumberOfLaboratoryTestsFor1000Person>3955.42382615989</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<NumberOfLaboratoryTestsFor1000Person>2763.96390098274</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5513.59686298684</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<NumberOfLaboratoryTestsFor1000Person>6027.6343378491</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<NumberOfLaboratoryTestsFor1000Person>4389.15594148964</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1432</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>4131.01692118935</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1432</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>3277.4016925654</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1432</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<NumberOfLaboratoryTestsFor1000Person>10906.3099503814</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1432</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>7298.84076459825</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>7757.4652920061</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1432</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>9379.13198349198</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1432</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>7662.6713975193</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1432</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>4973.06323745572</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1432</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5008.54548734878</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1432</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>6785.24521742063</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1432</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5910.13820515349</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<NumberOfLaboratoryTestsFor1000Person>6401.45964737456</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>14411.6804104734</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5918.26619711855</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>3511.23206318607</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1433</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<NumberOfLaboratoryTestsFor1000Person>4411.03475086845</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<NumberOfLaboratoryTestsFor1000Person>3049.19638752473</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5691.71627066926</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5814.51094389741</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5169.85260248733</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1433</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>4535.94165517979</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1433</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>3604.99587991824</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1433</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<NumberOfLaboratoryTestsFor1000Person>10825.6102816294</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1433</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>7332.85449842043</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>8075.5416118778</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1433</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>9586.63954645688</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1433</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>8271.93137893394</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1433</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5456.59692593851</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1433</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5106.3185330801</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1433</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>6817.95021019623</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1433</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5505.42353845244</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<NumberOfLaboratoryTestsFor1000Person>7056.33083636484</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>13735.3810973184</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5839.31410949192</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>3280.52727173316</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1434</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<NumberOfLaboratoryTestsFor1000Person>4818.43189723857</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<NumberOfLaboratoryTestsFor1000Person>3061.57969658406</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<NumberOfLaboratoryTestsFor1000Person>6231.62155605163</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<NumberOfLaboratoryTestsFor1000Person>6058.92457839306</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<NumberOfLaboratoryTestsFor1000Person>4874.26934124251</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1434</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>4765.40610818037</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1434</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>3513.6161273092</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1434</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<NumberOfLaboratoryTestsFor1000Person>8065.71870170015</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1434</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>8277.77999384566</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>8413.32283719367</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1434</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>9033.13125013375</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1434</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>9195.78741337791</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1434</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5697.00764888444</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1434</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5063.5093162301</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1434</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>6316.59762371133</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1434</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>6027.78633434751</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<NumberOfLaboratoryTestsFor1000Person>7018.42502696872</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfLaboratoryTestsFor1000Person>10297.2203055911</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+	<YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<NumberOfLaboratoryTestsFor1000Person>5242.91130561045</NumberOfLaboratoryTestsFor1000Person>
+	</YB_LAB_RAD_PHY_LAB_INSVTGNTS_Population>
+</NewDataSet>

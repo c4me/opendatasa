@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<NewDataSet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<YB_POP_BEDS>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<NumberOfRadiationTests>138.211805655415</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1429</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<NumberOfRadiationTests>181.244146367798</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<NumberOfRadiationTests>89.2011157967441</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<NumberOfRadiationTests>237.50384995518</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<NumberOfRadiationTests>223.3140988827</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<NumberOfRadiationTests>296.209142512438</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1429</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<NumberOfRadiationTests>169.772714147967</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1429</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>217.541522222797</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1429</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<NumberOfRadiationTests>457.374232417188</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1429</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<NumberOfRadiationTests>318.877115160815</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>406.313575261594</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1429</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>248.790527835315</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1429</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>348.56464907693</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1429</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<NumberOfRadiationTests>338.325457196564</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1429</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>271.425544414634</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1429</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>195.531765402246</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1429</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>285.04699377464</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<NumberOfRadiationTests>431.366386422566</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1429</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>343.780707911361</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1429</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<NumberOfRadiationTests>135.757921913531</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<NumberOfRadiationTests>129.80564991502</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1430</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<NumberOfRadiationTests>175.666461138936</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<NumberOfRadiationTests>104.781726363794</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<NumberOfRadiationTests>241.815649362482</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<NumberOfRadiationTests>218.716898944337</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<NumberOfRadiationTests>250.198230031983</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1430</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<NumberOfRadiationTests>164.664906456288</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1430</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>207.959879689407</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1430</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<NumberOfRadiationTests>467.418909836935</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1430</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<NumberOfRadiationTests>327.049596789953</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>430.709968486647</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1430</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>272.950647108975</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1430</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>377.673137608475</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1430</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<NumberOfRadiationTests>339.085895626916</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1430</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>263.580465653464</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1430</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>210.799000699979</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1430</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>331.128431762051</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<NumberOfRadiationTests>313.747284695393</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1430</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>359.618107288725</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1430</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<NumberOfRadiationTests>169.871976917222</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<NumberOfRadiationTests>142.931405048674</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1431</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<NumberOfRadiationTests>182.11774853497</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<NumberOfRadiationTests>100.335884423122</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<NumberOfRadiationTests>242.107772498138</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<NumberOfRadiationTests>188.967860394766</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<NumberOfRadiationTests>263.389342885642</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1431</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<NumberOfRadiationTests>136.182155748443</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1431</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>192.217653041243</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1431</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<NumberOfRadiationTests>495.581158929177</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1431</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<NumberOfRadiationTests>310.953313948409</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>480.074130048998</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1431</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>307.692697081386</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1431</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>371.35915542769</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1431</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<NumberOfRadiationTests>221.956513001889</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1431</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>246.106777722239</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1431</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>248.569488823786</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1431</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>317.319025733113</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<NumberOfRadiationTests>332.324260529616</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1431</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>364.67437750068</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1431</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<NumberOfRadiationTests>166.273896572989</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<NumberOfRadiationTests>157.831636539468</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1432</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<NumberOfRadiationTests>221.030781086335</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<NumberOfRadiationTests>103.308645044023</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<NumberOfRadiationTests>237.120180823466</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<NumberOfRadiationTests>222.646148513806</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<NumberOfRadiationTests>284.978352740797</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1432</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<NumberOfRadiationTests>136.801767694051</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1432</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>192.847413179303</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1432</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<NumberOfRadiationTests>464.093176305333</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1432</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<NumberOfRadiationTests>362.737963686674</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>486.987165827993</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1432</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>312.508003809544</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1432</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>391.542944151875</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1432</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<NumberOfRadiationTests>196.613627418694</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1432</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>234.984445018749</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1432</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>254.25348478695</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1432</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>323.591210091555</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<NumberOfRadiationTests>287.077194849902</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1432</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>361.475709695384</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1432</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<NumberOfRadiationTests>165.959876902251</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<NumberOfRadiationTests>143.903131697193</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1433</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<NumberOfRadiationTests>328.287627721222</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<NumberOfRadiationTests>386.021111931901</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<NumberOfRadiationTests>252.659315269402</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<NumberOfRadiationTests>158.956913642353</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<NumberOfRadiationTests>230.387446683373</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1433</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<NumberOfRadiationTests>109.219968082729</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1433</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>261.672395141523</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1433</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<NumberOfRadiationTests>235.832395781518</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1433</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<NumberOfRadiationTests>298.643282157731</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>259.853232900005</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1433</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>202.853437401357</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1433</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>306.862180055565</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1433</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<NumberOfRadiationTests>378.333223466621</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1433</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>422.856212738252</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1433</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>260.327901888531</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1433</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>286.711163276866</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<NumberOfRadiationTests>269.305504187068</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1433</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>495.766686101042</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1433</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<NumberOfRadiationTests>146.147544933263</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الرياض الصحية</Region>
+		<NumberOfRadiationTests>137.07684184522</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1434</YEAR>
+		<Region>منطقة االعاصمة المقدسة</Region>
+		<NumberOfRadiationTests>351.638524823215</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بجـدة</Region>
+		<NumberOfRadiationTests>385.35680188522</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بالطائف</Region>
+		<NumberOfRadiationTests>231.860567843094</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بالإحساء</Region>
+		<NumberOfRadiationTests>155.56793130507</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشؤون الصحية بحفر الباطن</Region>
+		<NumberOfRadiationTests>251.568292577276</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1434</YEAR>
+		<Region>الشئون الصحية بالشرقية</Region>
+		<NumberOfRadiationTests>108.491011538997</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1434</YEAR>
+		<Region>منطقة تبوك - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>264.911909292049</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1434</YEAR>
+		<Region>مديريه الشؤون الصحيه بمنطقه القريات</Region>
+		<NumberOfRadiationTests>236.294628246523</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1434</YEAR>
+		<Region>الشؤون الصحية للحدود الشمالية</Region>
+		<NumberOfRadiationTests>300.975097432518</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الجوف - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>345.858483419271</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1434</YEAR>
+		<Region>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>225.173424642047</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1434</YEAR>
+		<Region>منطقة القصيم - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>333.825110920165</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1434</YEAR>
+		<Region>منطقة حائل - المديرية العامة للشـؤون الصحية</Region>
+		<NumberOfRadiationTests>375.741292516856</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1434</YEAR>
+		<Region>منطقة عسير - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>432.564377014699</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1434</YEAR>
+		<Region>منطفة جيزان - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>298.382660358675</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1434</YEAR>
+		<Region>منطقة نجران - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>326.199810811119</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشئون الصحية ببيشة</Region>
+		<NumberOfRadiationTests>277.241100323625</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1434</YEAR>
+		<Region>منطقة الباحه - المديرية العامة للشـئون الصحية</Region>
+		<NumberOfRadiationTests>552.160741885626</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+	<YB_POP_BEDS>
+		<YEAR>1434</YEAR>
+		<Region>مديرية الشـؤون الصحية بمنطقة القنفذه</Region>
+		<NumberOfRadiationTests>185.216929509673</NumberOfRadiationTests>
+	</YB_POP_BEDS>
+</NewDataSet>

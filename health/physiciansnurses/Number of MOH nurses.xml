@@ -1,0 +1,483 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <NURSES_TOT>11506</NURSES_TOT>
+    <NURSES_SAUDI>3618</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة الرياض الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <NURSES_TOT>11496</NURSES_TOT>
+    <NURSES_SAUDI>4778</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة الرياض الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <NURSES_TOT>15429</NURSES_TOT>
+    <NURSES_SAUDI>6014</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة الرياض الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <NURSES_TOT>16016</NURSES_TOT>
+    <NURSES_SAUDI>6452</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة الرياض الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <NURSES_TOT>3912</NURSES_TOT>
+    <NURSES_SAUDI>1761</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة االعاصمة المقدسة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <NURSES_TOT>2108</NURSES_TOT>
+    <NURSES_SAUDI>1981</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة االعاصمة المقدسة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <NURSES_TOT>4127</NURSES_TOT>
+    <NURSES_SAUDI>2198</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة االعاصمة المقدسة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <NURSES_TOT>3976</NURSES_TOT>
+    <NURSES_SAUDI>2411</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة االعاصمة المقدسة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <NURSES_TOT>4227</NURSES_TOT>
+    <NURSES_SAUDI>1819</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بجـدة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <NURSES_TOT>5017</NURSES_TOT>
+    <NURSES_SAUDI>2365</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بجـدة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <NURSES_TOT>5431</NURSES_TOT>
+    <NURSES_SAUDI>2747</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بجـدة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <NURSES_TOT>5524</NURSES_TOT>
+    <NURSES_SAUDI>2962</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بجـدة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <NURSES_TOT>3258</NURSES_TOT>
+    <NURSES_SAUDI>1630</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالطائف</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <NURSES_TOT>3985</NURSES_TOT>
+    <NURSES_SAUDI>1998</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالطائف</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <NURSES_TOT>4285</NURSES_TOT>
+    <NURSES_SAUDI>2307</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالطائف</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <NURSES_TOT>4296</NURSES_TOT>
+    <NURSES_SAUDI>2344</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالطائف</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <NURSES_TOT>4393</NURSES_TOT>
+    <NURSES_SAUDI>2301</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <NURSES_TOT>4945</NURSES_TOT>
+    <NURSES_SAUDI>2821</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <NURSES_TOT>5850</NURSES_TOT>
+    <NURSES_SAUDI>3197</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <NURSES_TOT>6263</NURSES_TOT>
+    <NURSES_SAUDI>3617</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <NURSES_TOT>3957</NURSES_TOT>
+    <NURSES_SAUDI>1602</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة القصيم - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <NURSES_TOT>3728</NURSES_TOT>
+    <NURSES_SAUDI>1642</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة القصيم - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <NURSES_TOT>4757</NURSES_TOT>
+    <NURSES_SAUDI>1863</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة القصيم - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <NURSES_TOT>5164</NURSES_TOT>
+    <NURSES_SAUDI>2012</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة القصيم - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <NURSES_TOT>4041</NURSES_TOT>
+    <NURSES_SAUDI>2264</NURSES_SAUDI>
+    <Region_x0020_Name>الشئون الصحية بالشرقية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <NURSES_TOT>5147</NURSES_TOT>
+    <NURSES_SAUDI>3307</NURSES_SAUDI>
+    <Region_x0020_Name>الشئون الصحية بالشرقية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <NURSES_TOT>7092</NURSES_TOT>
+    <NURSES_SAUDI>3892</NURSES_SAUDI>
+    <Region_x0020_Name>الشئون الصحية بالشرقية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <NURSES_TOT>7113</NURSES_TOT>
+    <NURSES_SAUDI>4188</NURSES_SAUDI>
+    <Region_x0020_Name>الشئون الصحية بالشرقية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <NURSES_TOT>2472</NURSES_TOT>
+    <NURSES_SAUDI>1005</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالإحساء</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <NURSES_TOT>2838</NURSES_TOT>
+    <NURSES_SAUDI>1277</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالإحساء</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <NURSES_TOT>3014</NURSES_TOT>
+    <NURSES_SAUDI>1536</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالإحساء</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <NURSES_TOT>3103</NURSES_TOT>
+    <NURSES_SAUDI>1754</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالإحساء</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <NURSES_TOT>781</NURSES_TOT>
+    <NURSES_SAUDI>577</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بحفر الباطن</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <NURSES_TOT>1126</NURSES_TOT>
+    <NURSES_SAUDI>835</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بحفر الباطن</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <NURSES_TOT>1243</NURSES_TOT>
+    <NURSES_SAUDI>929</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بحفر الباطن</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <NURSES_TOT>1359</NURSES_TOT>
+    <NURSES_SAUDI>1047</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بحفر الباطن</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <NURSES_TOT>3380</NURSES_TOT>
+    <NURSES_SAUDI>1180</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة عسير - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <NURSES_TOT>4081</NURSES_TOT>
+    <NURSES_SAUDI>1783</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة عسير - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <NURSES_TOT>5027</NURSES_TOT>
+    <NURSES_SAUDI>2158</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة عسير - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <NURSES_TOT>4796</NURSES_TOT>
+    <NURSES_SAUDI>2205</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة عسير - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <NURSES_TOT>604</NURSES_TOT>
+    <NURSES_SAUDI>290</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشئون الصحية ببيشة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <NURSES_TOT>1006</NURSES_TOT>
+    <NURSES_SAUDI>538</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشئون الصحية ببيشة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <NURSES_TOT>1164</NURSES_TOT>
+    <NURSES_SAUDI>467</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشئون الصحية ببيشة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <NURSES_TOT>1454</NURSES_TOT>
+    <NURSES_SAUDI>666</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشئون الصحية ببيشة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <NURSES_TOT>1885</NURSES_TOT>
+    <NURSES_SAUDI>1058</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة تبوك - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <NURSES_TOT>2131</NURSES_TOT>
+    <NURSES_SAUDI>1289</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة تبوك - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <NURSES_TOT>2444</NURSES_TOT>
+    <NURSES_SAUDI>1522</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة تبوك - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <NURSES_TOT>2540</NURSES_TOT>
+    <NURSES_SAUDI>1692</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة تبوك - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <NURSES_TOT>1698</NURSES_TOT>
+    <NURSES_SAUDI>900</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة حائل - المديرية العامة للشـؤون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <NURSES_TOT>2124</NURSES_TOT>
+    <NURSES_SAUDI>1111</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة حائل - المديرية العامة للشـؤون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <NURSES_TOT>2401</NURSES_TOT>
+    <NURSES_SAUDI>1289</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة حائل - المديرية العامة للشـؤون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <NURSES_TOT>2507</NURSES_TOT>
+    <NURSES_SAUDI>1389</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة حائل - المديرية العامة للشـؤون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <NURSES_TOT>1266</NURSES_TOT>
+    <NURSES_SAUDI>711</NURSES_SAUDI>
+    <Region_x0020_Name>الشؤون الصحية للحدود الشمالية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <NURSES_TOT>1558</NURSES_TOT>
+    <NURSES_SAUDI>899</NURSES_SAUDI>
+    <Region_x0020_Name>الشؤون الصحية للحدود الشمالية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <NURSES_TOT>1817</NURSES_TOT>
+    <NURSES_SAUDI>1050</NURSES_SAUDI>
+    <Region_x0020_Name>الشؤون الصحية للحدود الشمالية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <NURSES_TOT>1822</NURSES_TOT>
+    <NURSES_SAUDI>1232</NURSES_SAUDI>
+    <Region_x0020_Name>الشؤون الصحية للحدود الشمالية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <NURSES_TOT>2936</NURSES_TOT>
+    <NURSES_SAUDI>1659</NURSES_SAUDI>
+    <Region_x0020_Name>منطفة جيزان - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <NURSES_TOT>3200</NURSES_TOT>
+    <NURSES_SAUDI>1970</NURSES_SAUDI>
+    <Region_x0020_Name>منطفة جيزان - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <NURSES_TOT>4011</NURSES_TOT>
+    <NURSES_SAUDI>2219</NURSES_SAUDI>
+    <Region_x0020_Name>منطفة جيزان - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <NURSES_TOT>4044</NURSES_TOT>
+    <NURSES_SAUDI>2431</NURSES_SAUDI>
+    <Region_x0020_Name>منطفة جيزان - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <NURSES_TOT>1486</NURSES_TOT>
+    <NURSES_SAUDI>519</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة نجران - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <NURSES_TOT>1976</NURSES_TOT>
+    <NURSES_SAUDI>716</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة نجران - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <NURSES_TOT>2287</NURSES_TOT>
+    <NURSES_SAUDI>794</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة نجران - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <NURSES_TOT>2244</NURSES_TOT>
+    <NURSES_SAUDI>787</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة نجران - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <NURSES_TOT>1455</NURSES_TOT>
+    <NURSES_SAUDI>433</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة الباحه - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <NURSES_TOT>1863</NURSES_TOT>
+    <NURSES_SAUDI>603</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة الباحه - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <NURSES_TOT>2138</NURSES_TOT>
+    <NURSES_SAUDI>682</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة الباحه - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <NURSES_TOT>2118</NURSES_TOT>
+    <NURSES_SAUDI>702</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة الباحه - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <NURSES_TOT>1263</NURSES_TOT>
+    <NURSES_SAUDI>911</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة الجوف - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <NURSES_TOT>1543</NURSES_TOT>
+    <NURSES_SAUDI>1138</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة الجوف - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <NURSES_TOT>1861</NURSES_TOT>
+    <NURSES_SAUDI>1278</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة الجوف - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <NURSES_TOT>1917</NURSES_TOT>
+    <NURSES_SAUDI>1504</NURSES_SAUDI>
+    <Region_x0020_Name>منطقة الجوف - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <NURSES_TOT>532</NURSES_TOT>
+    <NURSES_SAUDI>290</NURSES_SAUDI>
+    <Region_x0020_Name>مديريه الشؤون الصحيه بمنطقه القريات</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <NURSES_TOT>733</NURSES_TOT>
+    <NURSES_SAUDI>503</NURSES_SAUDI>
+    <Region_x0020_Name>مديريه الشؤون الصحيه بمنطقه القريات</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <NURSES_TOT>786</NURSES_TOT>
+    <NURSES_SAUDI>568</NURSES_SAUDI>
+    <Region_x0020_Name>مديريه الشؤون الصحيه بمنطقه القريات</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <NURSES_TOT>889</NURSES_TOT>
+    <NURSES_SAUDI>659</NURSES_SAUDI>
+    <Region_x0020_Name>مديريه الشؤون الصحيه بمنطقه القريات</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <NURSES_TOT>323</NURSES_TOT>
+    <NURSES_SAUDI>117</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشـؤون الصحية بمنطقة القنفذه</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <NURSES_TOT>522</NURSES_TOT>
+    <NURSES_SAUDI>196</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشـؤون الصحية بمنطقة القنفذه</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <NURSES_TOT>619</NURSES_TOT>
+    <NURSES_SAUDI>219</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشـؤون الصحية بمنطقة القنفذه</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <NURSES_TOT>688</NURSES_TOT>
+    <NURSES_SAUDI>243</NURSES_SAUDI>
+    <Region_x0020_Name>مديرية الشـؤون الصحية بمنطقة القنفذه</Region_x0020_Name>
+  </YB_MNPWR>
+</NewDataSet>

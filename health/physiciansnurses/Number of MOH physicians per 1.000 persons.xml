@@ -1,0 +1,483 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <Region_x0020_Name>منطقة الرياض الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>0.809207612533515</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.178308338667519</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <Region_x0020_Name>منطقة الرياض الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>0.780006229805554</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.215450109853945</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <Region_x0020_Name>منطقة الرياض الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>0.900674118574397</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.174557254631965</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <Region_x0020_Name>منطقة الرياض الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>0.897452899577585</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.224081361546539</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <Region_x0020_Name>منطقة االعاصمة المقدسة</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.07531066622809</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.24230584773149</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <Region_x0020_Name>منطقة االعاصمة المقدسة</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.22947058232926</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.373892105948827</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <Region_x0020_Name>منطقة االعاصمة المقدسة</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>0.945442803148514</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.358130483026457</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <Region_x0020_Name>منطقة االعاصمة المقدسة</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>0.925044057095517</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.348634694885245</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <Region_x0020_Name>مديرية الشؤون الصحية بجـدة</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>0.564221544507838</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.331358557927556</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <Region_x0020_Name>مديرية الشؤون الصحية بجـدة</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>0.710858838588508</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.451632514319346</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <Region_x0020_Name>مديرية الشؤون الصحية بجـدة</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>0.693254570475895</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.428626599870542</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <Region_x0020_Name>مديرية الشؤون الصحية بجـدة</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>0.726537386510899</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.448972141200962</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالطائف</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.24301836486083</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.122279173466339</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالطائف</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.15018430011962</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.12358843067952</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالطائف</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.41336004699891</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.166960409847629</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالطائف</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.44521785289258</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.166953484190789</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <Region_x0020_Name>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.11891467067208</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.224976443116467</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <Region_x0020_Name>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.17301950457518</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.254726099654898</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <Region_x0020_Name>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.36619321425498</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.333533378366901</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <Region_x0020_Name>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.43772632621106</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.364274222621591</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <Region_x0020_Name>منطقة القصيم - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.66439676194265</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.133223753795302</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <Region_x0020_Name>منطقة القصيم - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.40524625267666</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0854065704947594</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <Region_x0020_Name>منطقة القصيم - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.70414637235598</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.125837063209684</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <Region_x0020_Name>منطقة القصيم - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.76540035970032</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.14186252890449</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <Region_x0020_Name>الشئون الصحية بالشرقية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>0.776110835977243</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.311056823212976</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <Region_x0020_Name>الشئون الصحية بالشرقية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>0.780853807863627</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.322209455882189</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <Region_x0020_Name>الشئون الصحية بالشرقية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.10266052192598</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.462551952274591</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <Region_x0020_Name>الشئون الصحية بالشرقية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.15487999838619</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.488104303747128</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالإحساء</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.04933601136848</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.201561646971359</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالإحساء</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.03741435876685</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.212243473017309</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالإحساء</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.13158350202048</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.265258975535974</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالإحساء</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.73572091990501</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.276198960733714</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <Region_x0020_Name>مديرية الشؤون الصحية بحفر الباطن</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.19287967675406</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.046193518234212</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <Region_x0020_Name>مديرية الشؤون الصحية بحفر الباطن</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>0.997802174410499</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0452336985732759</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <Region_x0020_Name>مديرية الشؤون الصحية بحفر الباطن</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.25130451059378</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0692320118566231</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <Region_x0020_Name>مديرية الشؤون الصحية بحفر الباطن</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.39556520390758</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0836846859486028</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <Region_x0020_Name>منطقة عسير - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>0.975439797325973</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.117991767757607</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <Region_x0020_Name>منطقة عسير - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.08538730083734</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.166023571409822</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <Region_x0020_Name>منطقة عسير - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.27471709473746</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.216581230346524</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <Region_x0020_Name>منطقة عسير - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.27999453868997</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.251122738066794</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <Region_x0020_Name>مديرية الشئون الصحية ببيشة</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.56655142610199</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0294649171053665</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <Region_x0020_Name>مديرية الشئون الصحية ببيشة</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.49696573113778</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0358554666140787</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <Region_x0020_Name>مديرية الشئون الصحية ببيشة</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.52541122667257</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.03245555801431</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <Region_x0020_Name>مديرية الشئون الصحية ببيشة</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.84862245071284</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.045295496495261</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <Region_x0020_Name>منطقة تبوك - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.0994981114503</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0362187613183629</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <Region_x0020_Name>منطقة تبوك - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.02314342885189</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0339789330615019</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <Region_x0020_Name>منطقة تبوك - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.3303265174629</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0593782966009084</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <Region_x0020_Name>منطقة تبوك - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.38520115134232</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0654998793104076</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <Region_x0020_Name>منطقة حائل - المديرية العامة للشـؤون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.25959629675175</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0368919417458672</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <Region_x0020_Name>منطقة حائل - المديرية العامة للشـؤون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.25078173858662</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.04823951608874</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <Region_x0020_Name>منطقة حائل - المديرية العامة للشـؤون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.61937489114853</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0502391382982999</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <Region_x0020_Name>منطقة حائل - المديرية العامة للشـؤون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.71246355392413</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0514060353898425</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <Region_x0020_Name>الشؤون الصحية للحدود الشمالية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.96324318748167</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0483557435340312</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <Region_x0020_Name>الشؤون الصحية للحدود الشمالية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.71641110488672</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0293125236128662</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <Region_x0020_Name>الشؤون الصحية للحدود الشمالية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>2.48031348666558</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0280790206037613</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <Region_x0020_Name>الشؤون الصحية للحدود الشمالية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>2.53648252462365</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0269519984906881</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <Region_x0020_Name>منطفة جيزان - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>0.992539387170939</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.112959717811564</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <Region_x0020_Name>منطفة جيزان - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.00310743646742</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.123740990337952</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <Region_x0020_Name>منطفة جيزان - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.21908922522895</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.16456228645645</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <Region_x0020_Name>منطفة جيزان - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.29990036439369</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.18479664639759</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <Region_x0020_Name>منطقة نجران - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.45717130667789</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.016190792296421</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <Region_x0020_Name>منطقة نجران - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.68951436189602</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0532453011021777</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <Region_x0020_Name>منطقة نجران - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.81350019380918</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0533964070151013</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <Region_x0020_Name>منطقة نجران - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.83565571594366</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0682681877830285</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <Region_x0020_Name>منطقة الباحه - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.70209565827735</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0250676827434072</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <Region_x0020_Name>منطقة الباحه - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.89266185841604</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.103775193281297</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <Region_x0020_Name>منطقة الباحه - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>2.30159655051859</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.126247912053762</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <Region_x0020_Name>منطقة الباحه - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>2.33477722916468</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.153787721681506</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <Region_x0020_Name>منطقة الجوف - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>2.09582447278115</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.107478178091341</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <Region_x0020_Name>منطقة الجوف - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.95974834283231</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0637011889639564</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <Region_x0020_Name>منطقة الجوف - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>2.36272434768634</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.147029156223607</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <Region_x0020_Name>منطقة الجوف - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>2.44554082184596</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0983461456506417</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <Region_x0020_Name>مديريه الشؤون الصحيه بمنطقه القريات</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.67472613515257</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0942486569566384</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <Region_x0020_Name>مديريه الشؤون الصحيه بمنطقه القريات</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.71200169785292</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.148562130805419</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <Region_x0020_Name>مديريه الشؤون الصحيه بمنطقه القريات</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>2.0535411724839</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.149101999322264</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <Region_x0020_Name>مديريه الشؤون الصحيه بمنطقه القريات</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>2.17853589381751</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.143068028847717</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <Region_x0020_Name>مديرية الشـؤون الصحية بمنطقة القنفذه</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>0.64834074937385</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0115775133816759</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <Region_x0020_Name>مديرية الشـؤون الصحية بمنطقة القنفذه</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>0.976928581976804</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0719443529362762</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <Region_x0020_Name>مديرية الشـؤون الصحية بمنطقة القنفذه</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.07920007047837</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.08809796493701</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <Region_x0020_Name>مديرية الشـؤون الصحية بمنطقة القنفذه</Region_x0020_Name>
+    <Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>1.26904895356338</Total_x0020_Physicians_x0020_Per_x0020_1000_x0020_People>
+    <Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>0.0951786715172538</Saudi_x0020_Physician_x0020_Per_x0020_1000_x0020_People>
+  </YB_MNPWR>
+</NewDataSet>

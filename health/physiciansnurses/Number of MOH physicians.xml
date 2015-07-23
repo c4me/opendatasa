@@ -1,0 +1,483 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <PHY_TOT>4924</PHY_TOT>
+    <PHY_NS_SAUDI>1085</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة الرياض الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <PHY_TOT>4873</PHY_TOT>
+    <PHY_NS_SAUDI>1346</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة الرياض الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <PHY_TOT>6104</PHY_TOT>
+    <PHY_NS_SAUDI>1183</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة الرياض الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <PHY_TOT>6368</PHY_TOT>
+    <PHY_NS_SAUDI>1590</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة الرياض الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <PHY_TOT>1713</PHY_TOT>
+    <PHY_NS_SAUDI>386</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة االعاصمة المقدسة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <PHY_TOT>1996</PHY_TOT>
+    <PHY_NS_SAUDI>607</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة االعاصمة المقدسة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <PHY_TOT>1745</PHY_TOT>
+    <PHY_NS_SAUDI>661</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة االعاصمة المقدسة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <PHY_TOT>1791</PHY_TOT>
+    <PHY_NS_SAUDI>675</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة االعاصمة المقدسة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <PHY_TOT>1856</PHY_TOT>
+    <PHY_NS_SAUDI>1090</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بجـدة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <PHY_TOT>2383</PHY_TOT>
+    <PHY_NS_SAUDI>1514</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بجـدة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <PHY_TOT>2549</PHY_TOT>
+    <PHY_NS_SAUDI>1576</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بجـدة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <PHY_TOT>2806</PHY_TOT>
+    <PHY_NS_SAUDI>1734</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بجـدة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <PHY_TOT>1352</PHY_TOT>
+    <PHY_NS_SAUDI>133</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالطائف</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <PHY_TOT>1275</PHY_TOT>
+    <PHY_NS_SAUDI>137</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالطائف</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <PHY_TOT>1583</PHY_TOT>
+    <PHY_NS_SAUDI>187</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالطائف</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <PHY_TOT>1688</PHY_TOT>
+    <PHY_NS_SAUDI>195</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالطائف</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <PHY_TOT>1875</PHY_TOT>
+    <PHY_NS_SAUDI>377</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <PHY_TOT>2017</PHY_TOT>
+    <PHY_NS_SAUDI>438</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <PHY_TOT>2429</PHY_TOT>
+    <PHY_NS_SAUDI>593</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <PHY_TOT>2672</PHY_TOT>
+    <PHY_NS_SAUDI>677</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة المدينة المنورة - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <PHY_TOT>1849</PHY_TOT>
+    <PHY_NS_SAUDI>148</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة القصيم - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <PHY_TOT>1596</PHY_TOT>
+    <PHY_NS_SAUDI>97</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة القصيم - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <PHY_TOT>2072</PHY_TOT>
+    <PHY_NS_SAUDI>153</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة القصيم - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <PHY_TOT>2240</PHY_TOT>
+    <PHY_NS_SAUDI>180</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة القصيم - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <PHY_TOT>1774</PHY_TOT>
+    <PHY_NS_SAUDI>711</PHY_NS_SAUDI>
+    <Region_x0020_Name>الشئون الصحية بالشرقية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <PHY_TOT>1820</PHY_TOT>
+    <PHY_NS_SAUDI>751</PHY_NS_SAUDI>
+    <Region_x0020_Name>الشئون الصحية بالشرقية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <PHY_TOT>2925</PHY_TOT>
+    <PHY_NS_SAUDI>1227</PHY_NS_SAUDI>
+    <Region_x0020_Name>الشئون الصحية بالشرقية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <PHY_TOT>3206</PHY_TOT>
+    <PHY_NS_SAUDI>1355</PHY_NS_SAUDI>
+    <Region_x0020_Name>الشئون الصحية بالشرقية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <PHY_TOT>1036</PHY_TOT>
+    <PHY_NS_SAUDI>199</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالإحساء</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <PHY_TOT>1046</PHY_TOT>
+    <PHY_NS_SAUDI>214</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالإحساء</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <PHY_TOT>1203</PHY_TOT>
+    <PHY_NS_SAUDI>282</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالإحساء</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <PHY_TOT>1923</PHY_TOT>
+    <PHY_NS_SAUDI>306</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بالإحساء</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <PHY_TOT>439</PHY_TOT>
+    <PHY_NS_SAUDI>17</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بحفر الباطن</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <PHY_TOT>375</PHY_TOT>
+    <PHY_NS_SAUDI>17</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بحفر الباطن</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <PHY_TOT>488</PHY_TOT>
+    <PHY_NS_SAUDI>27</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بحفر الباطن</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <PHY_TOT>567</PHY_TOT>
+    <PHY_NS_SAUDI>34</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشؤون الصحية بحفر الباطن</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <PHY_TOT>1579</PHY_TOT>
+    <PHY_NS_SAUDI>191</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة عسير - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <PHY_TOT>1654</PHY_TOT>
+    <PHY_NS_SAUDI>253</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة عسير - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <PHY_TOT>2007</PHY_TOT>
+    <PHY_NS_SAUDI>341</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة عسير - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <PHY_TOT>2100</PHY_TOT>
+    <PHY_NS_SAUDI>412</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة عسير - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <PHY_TOT>319</PHY_TOT>
+    <PHY_NS_SAUDI>6</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشئون الصحية ببيشة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <PHY_TOT>501</PHY_TOT>
+    <PHY_NS_SAUDI>12</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشئون الصحية ببيشة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <PHY_TOT>517</PHY_TOT>
+    <PHY_NS_SAUDI>11</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشئون الصحية ببيشة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <PHY_TOT>653</PHY_TOT>
+    <PHY_NS_SAUDI>16</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشئون الصحية ببيشة</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <PHY_TOT>850</PHY_TOT>
+    <PHY_NS_SAUDI>28</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة تبوك - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <PHY_TOT>813</PHY_TOT>
+    <PHY_NS_SAUDI>27</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة تبوك - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <PHY_TOT>1053</PHY_TOT>
+    <PHY_NS_SAUDI>47</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة تبوك - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <PHY_TOT>1142</PHY_TOT>
+    <PHY_NS_SAUDI>54</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة تبوك - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <PHY_TOT>717</PHY_TOT>
+    <PHY_NS_SAUDI>21</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة حائل - المديرية العامة للشـؤون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <PHY_TOT>726</PHY_TOT>
+    <PHY_NS_SAUDI>28</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة حائل - المديرية العامة للشـؤون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <PHY_TOT>967</PHY_TOT>
+    <PHY_NS_SAUDI>30</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة حائل - المديرية العامة للشـؤون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <PHY_TOT>1066</PHY_TOT>
+    <PHY_NS_SAUDI>32</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة حائل - المديرية العامة للشـؤون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <PHY_TOT>609</PHY_TOT>
+    <PHY_NS_SAUDI>15</PHY_NS_SAUDI>
+    <Region_x0020_Name>الشؤون الصحية للحدود الشمالية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <PHY_TOT>527</PHY_TOT>
+    <PHY_NS_SAUDI>9</PHY_NS_SAUDI>
+    <Region_x0020_Name>الشؤون الصحية للحدود الشمالية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <PHY_TOT>795</PHY_TOT>
+    <PHY_NS_SAUDI>9</PHY_NS_SAUDI>
+    <Region_x0020_Name>الشؤون الصحية للحدود الشمالية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <PHY_TOT>847</PHY_TOT>
+    <PHY_NS_SAUDI>9</PHY_NS_SAUDI>
+    <Region_x0020_Name>الشؤون الصحية للحدود الشمالية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <PHY_TOT>1318</PHY_TOT>
+    <PHY_NS_SAUDI>150</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطفة جيزان - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <PHY_TOT>1370</PHY_TOT>
+    <PHY_NS_SAUDI>169</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطفة جيزان - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <PHY_TOT>1652</PHY_TOT>
+    <PHY_NS_SAUDI>223</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطفة جيزان - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <PHY_TOT>1850</PHY_TOT>
+    <PHY_NS_SAUDI>263</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطفة جيزان - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <PHY_TOT>720</PHY_TOT>
+    <PHY_NS_SAUDI>8</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة نجران - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <PHY_TOT>825</PHY_TOT>
+    <PHY_NS_SAUDI>26</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة نجران - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <PHY_TOT>917</PHY_TOT>
+    <PHY_NS_SAUDI>27</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة نجران - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <PHY_TOT>968</PHY_TOT>
+    <PHY_NS_SAUDI>36</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة نجران - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <PHY_TOT>679</PHY_TOT>
+    <PHY_NS_SAUDI>10</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة الباحه - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <PHY_TOT>766</PHY_TOT>
+    <PHY_NS_SAUDI>42</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة الباحه - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <PHY_TOT>948</PHY_TOT>
+    <PHY_NS_SAUDI>52</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة الباحه - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <PHY_TOT>1002</PHY_TOT>
+    <PHY_NS_SAUDI>66</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة الباحه - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <PHY_TOT>546</PHY_TOT>
+    <PHY_NS_SAUDI>28</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة الجوف - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <PHY_TOT>523</PHY_TOT>
+    <PHY_NS_SAUDI>17</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة الجوف - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <PHY_TOT>691</PHY_TOT>
+    <PHY_NS_SAUDI>43</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة الجوف - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <PHY_TOT>746</PHY_TOT>
+    <PHY_NS_SAUDI>30</PHY_NS_SAUDI>
+    <Region_x0020_Name>منطقة الجوف - المديرية العامة للشـئون الصحية</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <PHY_TOT>231</PHY_TOT>
+    <PHY_NS_SAUDI>13</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديريه الشؤون الصحيه بمنطقه القريات</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <PHY_TOT>242</PHY_TOT>
+    <PHY_NS_SAUDI>21</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديريه الشؤون الصحيه بمنطقه القريات</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <PHY_TOT>303</PHY_TOT>
+    <PHY_NS_SAUDI>22</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديريه الشؤون الصحيه بمنطقه القريات</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <PHY_TOT>335</PHY_TOT>
+    <PHY_NS_SAUDI>22</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديريه الشؤون الصحيه بمنطقه القريات</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1429</YEAR>
+    <PHY_TOT>168</PHY_TOT>
+    <PHY_NS_SAUDI>3</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشـؤون الصحية بمنطقة القنفذه</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1430</YEAR>
+    <PHY_TOT>258</PHY_TOT>
+    <PHY_NS_SAUDI>19</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشـؤون الصحية بمنطقة القنفذه</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1431</YEAR>
+    <PHY_TOT>294</PHY_TOT>
+    <PHY_NS_SAUDI>24</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشـؤون الصحية بمنطقة القنفذه</Region_x0020_Name>
+  </YB_MNPWR>
+  <YB_MNPWR>
+    <YEAR>1432</YEAR>
+    <PHY_TOT>360</PHY_TOT>
+    <PHY_NS_SAUDI>27</PHY_NS_SAUDI>
+    <Region_x0020_Name>مديرية الشـؤون الصحية بمنطقة القنفذه</Region_x0020_Name>
+  </YB_MNPWR>
+</NewDataSet>
